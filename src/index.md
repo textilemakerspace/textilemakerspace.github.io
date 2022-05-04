@@ -1,6 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: Check out the Textile Makerspace!
+title: Textile Makerspace
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -21,7 +21,6 @@ heroSettings:
     color: # default bg-black
     image: cricut_face.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
-    video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-50 # Leave blank to inherit opacityMobile, use same options as opacityMobile
   headingText: Textile Makerspace
