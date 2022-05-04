@@ -7,9 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-    permissions:
-      contents: 'read'
-      id-token: 'write'
     strategy:
       matrix:
         node-version: [12.x]
