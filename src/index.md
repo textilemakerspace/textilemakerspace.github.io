@@ -42,10 +42,11 @@ The Textile Makerspace provides a drop-in space for Stanford students, faculty, 
 ## Equipment & supplies
 The Textile Makerspace currently has:
 
-- Sewing machine
-- Serger
-- Coverstitch
-- Cricut Explore
+- Baby Lock Jubilant sewing machine
+- Brother 1034d serger
+- Bernina 2500dcet serger/coverstitch
+- Janome 900cpx coverstitch
+- Cricut Maker
 - Iron & ironing board
 - Cutting board & rotary cutter
 - Tabletop snap press
