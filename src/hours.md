@@ -12,10 +12,18 @@ seo:
   image:
 ---
 
+<img src="/assets/images/friendship_bracelets.jpg" style="float:right;" width="400px">
+
+
 The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn Dombrowski and a group of volunteers. The schedule can vary, but we try to keep the latest info about our open hours on this page. If you'd like to volunteer to help run the Textile Makerspace, please [contact us](contact)!
 
-## Spring 2022 schedule
+## Fall 2022 schedule
 
-- Thursday, May 26, 12-1:30 PM, 3-4 PM
-- Thursday, June 2, 3-4 PM
-- Thursday, June 9, 3-4 PM
+We're still figuring out our regular open hours; we hope to be open at least two days a week, probably around lunchtime. More details soon! 
+
+We do have a few events planned, with more coming:
+
+- Friendship bracelet workshop: Wednesday, September 28, 1 PM, with Alix Keener
+- Crochet lessons & practice, with Mary-Ellen Petrich
+  - Tuesday, September 6th, 12-1 PM
+  - Tuesday, September 20th, 12-1 PM

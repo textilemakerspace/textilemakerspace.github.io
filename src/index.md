@@ -3,7 +3,7 @@
 title: Textile Makerspace
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
-author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
+author: quinn-dombrowski # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Welcome # as it will appear in the nav
@@ -19,7 +19,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: cricut_face.jpg # relative to /assets/images/
+    image: makerspace_whiteboard.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-50 # Leave blank to inherit opacityMobile, use same options as opacityMobile
@@ -28,7 +28,7 @@ heroSettings:
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
   subheadingText: Pigott Hall, 260-238
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  buttonText: Current hours # no button generated if left blank
+  buttonText: Hours & events # no button generated if left blank
   buttonURL: /hours/ # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
@@ -46,12 +46,19 @@ The Textile Makerspace currently has:
 - Brother 1034d serger
 - Bernina 2500dcet serger/coverstitch
 - Janome 900cpx coverstitch
+- Brother PE800 Embroidery Machine
 - Cricut Maker
+- Vinyl heat press
 - Iron & ironing board
 - Cutting board & rotary cutter
 - Tabletop snap press
 - Embroidery hoops
-- Assortment of donated fabric & thread
+- Personal-size and large looms
+- Darning loom
+- Button maker
+- Crochet hooks (that you can take with you!)
+- Assortment of donated fabric, thread & yarn
+- Various books and patterns
 
 
 ## Background
