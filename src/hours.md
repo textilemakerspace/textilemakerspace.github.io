@@ -19,11 +19,24 @@ The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn D
 
 ## Fall 2022 schedule
 
-We're still figuring out our regular open hours; we hope to be open at least two days a week, probably around lunchtime. More details soon! 
+We're still figuring out our regular open hours, and applying for funding to hire a student assistant (possibly as soon as winter)!
+
+- Wednesday, October 26, 1-2:30
+- Thursday, October 27, 12-1:30
+- Monday, October 31, 12-1:30
+- Wednesday, November 2, 1-2:30
+- Thursday, November 3, 12-1:30
+- Monday, November 7, 12-1:30
+- Wednesday, November 9, 1-2:30
+- Thursday, November 10, 12-1:30
+- Wednesday, November 16, 1-2:30
+- Thursday, November 17, 12-1:30
+- Monday, November 28, 12-1:30
+- Wednesday, December 7, 1-2:30
+- Monday, December 12, 12-1:30
+- Wednesday, December 14, 1-2:30
+- Thursday, December 15, 12-1:30
 
 We do have a few events planned, with more coming:
 
 - Friendship bracelet workshop: Wednesday, September 28, 1 PM, with Alix Keener
-- Crochet lessons & practice, with Mary-Ellen Petrich
-  - Tuesday, September 6th, 12-1 PM
-  - Tuesday, September 20th, 12-1 PM
