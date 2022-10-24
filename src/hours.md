@@ -21,7 +21,6 @@ The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn D
 
 We're still figuring out our regular open hours, and applying for funding to hire a student assistant (possibly as soon as winter)!
 
-- Wednesday, October 26, 1-2:30
 - Thursday, October 27, 12-1:30
 - Monday, October 31, 12-1:30
 - Wednesday, November 2, 1-2:30
@@ -36,7 +35,3 @@ We're still figuring out our regular open hours, and applying for funding to hir
 - Monday, December 12, 12-1:30
 - Wednesday, December 14, 1-2:30
 - Thursday, December 15, 12-1:30
-
-We do have a few events planned, with more coming:
-
-- Friendship bracelet workshop: Wednesday, September 28, 1 PM, with Alix Keener
