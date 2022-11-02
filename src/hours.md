@@ -26,7 +26,6 @@ We're still figuring out our regular open hours, and applying for funding to hir
 - Monday, November 7, 12-1:30 PM
 - Monday, November 7, 4-5:30 PM
 - Tuesday, November 8, 4-5:30 PM
-- Wednesday, November 9, 1-2:30 PM
 - Thursday, November 10, 12-1:30 PM
 - Monday, November 14, 4-5:30 PM
 - Tuesday, November 15, 4-5:30 PM
