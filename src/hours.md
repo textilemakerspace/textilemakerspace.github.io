@@ -19,17 +19,10 @@ The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn D
 
 We're still figuring out our regular open hours, and applying for funding to hire a student assistant (possibly as soon as winter)!
 
-- ~~Monday, November 14, 12-1:30 PM~~ (Canceled, car trouble)
-- Monday, November 14, 4-5:30 PM
-- Tuesday, November 15, 4-5:30 PM
-- Wednesday, November 16, 1:30-3 PM
-- Thursday, November 17, 12-1:30 PM
 - Monday, November 28, 12-1:30 PM
 - Monday, November 28, 4-5:30 PM
 - Tuesday, November 29, 4-5:30 PM
 - Wednesday, December 7, 1-2:30 PM
-- Monday, December 12, 12-1:30 PM
 - Monday, December 12, 4-5:30 PM
 - Tuesday, December 13, 4-5:30 PM
 - Wednesday, December 14, 1-2:30 PM
-- Thursday, December 15, 12-1:30 PM
