@@ -15,14 +15,14 @@ seo:
 The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn Dombrowski and a group of volunteers. The schedule can vary, but we try to keep the latest info about our open hours on this page. If you'd like to volunteer to help run the Textile Makerspace, please [contact us](contact)!
 
 
-## Fall 2022 schedule
+## Winter 2022 schedule
 
-We're still figuring out our regular open hours, and applying for funding to hire a student assistant (possibly as soon as winter)!
+We're still filling out our schedule, but hope to have some student-staffed later afternoon / evening hours scheduled soon!
 
-- Monday, November 28, 12-1:30 PM
-- Monday, November 28, 4-5:30 PM
-- Tuesday, November 29, 4-5:30 PM
-- Wednesday, December 7, 1-2:30 PM
-- Monday, December 12, 4-5:30 PM
-- Tuesday, December 13, 4-5:30 PM
-- Wednesday, December 14, 1-2:30 PM
+- Wednesday 1/11, 12-1:20
+- Tuesday 1/17, 12:1-20
+- Monday 1/23, 12-1:20
+- Wednesday 1/25, 12-1:20
+- Monday 1/30, 12-1:20
+- Wednesday 2/1, 12:1-20
+
