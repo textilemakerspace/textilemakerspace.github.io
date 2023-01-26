@@ -19,10 +19,12 @@ The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn D
 
 We're still filling out our schedule, but hope to have some student-staffed later afternoon / evening hours scheduled soon!
 
-- Wednesday 1/11, 12-1:20
-- Tuesday 1/17, 12:1-20
-- Monday 1/23, 12-1:20
-- Wednesday 1/25, 12-1:20
+- Thursday 1/25, 12-2
 - Monday 1/30, 12-1:20
-- Wednesday 2/1, 12:1-20
-
+- Wednesday 2/1, 12-1:20
+- Monday 2/6, 12-1:20
+- Tuesday 2/7 **special library event** *Passion for Fashion* pop-up in Hohbach Hall 2-4
+- Wednesday 2/8, 12:1-20
+- Monday 2/13, 12-1:20
+- Tuesday 2/14 **special library event** *Textiles and/as Data* pop-up in Hohbach Hall, 1:30-4
+- Wednesday 2/15, 12-1:20

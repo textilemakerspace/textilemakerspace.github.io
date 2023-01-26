@@ -47,6 +47,7 @@ The Textile Makerspace currently has:
 - Bernina 2500dcet serger/coverstitch
 - Janome 900cpx coverstitch
 - Brother PE800 Embroidery Machine
+- 80s/90s vintage knitting machine
 - Cricut Maker
 - Vinyl heat press
 - Iron & ironing board
