@@ -12,17 +12,18 @@ seo:
   image:
 ---
 
-The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn Dombrowski and a group of volunteers. The schedule can vary, but we try to keep the latest info about our open hours on this page. If you'd like to volunteer to help run the Textile Makerspace, please [contact us](contact)!
-
+The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page.
 
 ## Winter 2022 schedule
 
-We're still filling out our schedule, but hope to have some student-staffed later afternoon / evening hours scheduled soon!
-
-- Tuesday 2/7 **special library event** *Passion for Fashion* pop-up in Hohbach Hall, 2-4 PM
-- Tuesday 2/7, 5-7 PM 
-- Wednesday 2/8, 12:1-20 PM + 3-5 PM
-- Thursday, 2/9, 5-7 PM
 - Monday 2/13, 12-1:20
 - Tuesday 2/14 **special library event** *Textiles and/as Data* pop-up in Hohbach Hall, 1:30-4
-- Wednesday 2/15, 12-1:20
+- Tuesday 2/14, 5-7 PM
+- Wednesday 2/15, 12-1:20 PM
+- Thursday 2/16, 5-7 PM
+- Friday 2/17, 4-6 PM
+- Monday 2/20, 12-1:20 PM
+- Tuesday 2/21, 5-8:30 PM 
+- Wednesday 2/22, 12-1:20 PM
+- Thursday 2/23, 5-8:30 PM
+- Friday 2/24, 4-6 PM
