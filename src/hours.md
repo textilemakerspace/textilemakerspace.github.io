@@ -16,12 +16,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Winter 2022 schedule
 
-- Monday 2/13, 12-1:20
-- Monday, 2/13, 6-8:30
-- Tuesday 2/14 **special library event** *Textiles and/as Data* pop-up in Hohbach Hall, 1:30-4
-- Tuesday 2/14, 5-7 PM
 - Wednesday 2/15, 12-1:20 PM
-- Wednesday 2/15, 6-8:30
+- Wednesday 2/15, 4:30-8:30
 - Thursday 2/16, 5-7 PM
 - Friday 2/17, 4-6 PM
 - Monday 2/20, 12-1:20 PM
