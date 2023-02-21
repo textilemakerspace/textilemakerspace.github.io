@@ -16,14 +16,13 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Winter 2022 schedule
 
-- Wednesday 2/15, 12-1:20 PM
-- Wednesday 2/15, 4:30-8:30
-- Thursday 2/16, 5-7 PM
-- Friday 2/17, 4-6 PM
-- Monday 2/20, 12-1:20 PM
-- Monday, 2/20 6-8:30
 - Tuesday 2/21, 5-8:30 PM 
 - Wednesday 2/22, 12-1:20 PM
 - Wednesday 2/22, 6-8:30 PM
 - Thursday 2/23, 5-8:30 PM
-- Friday 2/24, 4-6 PM
+- Friday 2/24, 4-7:30 PM
+- Monday 2/27, 12-1:20 PM + 6-8:30 PM
+- Tuesday 2/28, 5-8:30 PM
+- Wednesday 3/1, 12-1:20 PM + 6-8:30 PM
+- Thursday 3/2, 5-8:30 PM
+- Friday 3/3, 4-6 PM
