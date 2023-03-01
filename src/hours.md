@@ -14,7 +14,7 @@ seo:
 
 The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page.
 
-## Winter 2022 schedule
+## Winter 2023 schedule
 
 - Friday 2/24, 4-6 PM
 - Monday 2/27, 12-1:20 PM + 6-8:30 PM
@@ -22,3 +22,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 - Wednesday 3/1, 12-1:20 PM + 6-8:30 PM
 - Thursday 3/2, 5-8:30 PM
 - Friday 3/3, 4-6 PM
+- Monday 3/6, 12-1:20 PM + 6-8:30 PM
+- Tuesday 3/7, 5-7 PM
+- Wednesday 3/8, 12-1:20 PM + 6-8:30 PM
+- Thursday 3/9, 5-7 PM
+- Friday 3/10, 4-6 PM
