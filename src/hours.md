@@ -16,14 +16,14 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Winter 2023 schedule
 
-- Friday 2/24, 4-6 PM
-- Monday 2/27, 12-1:20 PM + 6-8:30 PM
-- Tuesday 2/28, 5-8:30 PM
-- Wednesday 3/1, 12-1:20 PM + 6-8:30 PM
-- Thursday 3/2, 5-8:30 PM
-- Friday 3/3, 4-6 PM
 - Monday 3/6, 12-1:20 PM + 6-8:30 PM
-- Tuesday 3/7, 5-7 PM
+- Tuesday, 3/7 **Special Makerspace Pop-up in Hohbach Hall**, 2-4 PM
+- Tuesday 3/7, 5-8:30 PM
 - Wednesday 3/8, 12-1:20 PM + 6-8:30 PM
-- Thursday 3/9, 5-7 PM
+- Thursday 3/9, 5-8:30 PM
 - Friday 3/10, 4-6 PM
+- Monday 3/13, 12-1:20 PM + 6-8:30 PM
+- Tuesday 3/15, 5-8:30 PM
+- Wednesday 3/16, 12-1:20 PM + 6-8:30 PM
+- Thursday 3/17, 5-8:30 PM
+- Friday 3/18, 4-6 PM
