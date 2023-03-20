@@ -20,3 +20,4 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 - Tuesday 3/21, 5-8:30
 - Wednesday 3/22, 12-2 PM, 6-8:30 PM
 - Thursday 3/23, 5-8:30
+- Friday 3/24, 4:30-6
