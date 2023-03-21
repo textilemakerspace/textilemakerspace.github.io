@@ -17,7 +17,7 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 ## Winter 2023 schedule
 
 - Monday 3/20, 11:30-1 PM, 6-8:30 PM
-- Tuesday 3/21, 5-8:30
+- ~~Tuesday 3/21, 5-8:30~~ **Canceled due to power outage**
 - Wednesday 3/22, 12-2 PM, 6-8:30 PM
 - Thursday 3/23, 5-8:30
 - Friday 3/24, 4:30-6
