@@ -14,12 +14,9 @@ seo:
 
 The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page.
 
-## Winter 2023 schedule
+## Spring break schedule
 
-- Monday 3/20, 11:30-1 PM, 6-8:30 PM
-- ~~Tuesday 3/21, 5-8:30~~ **Canceled due to power outage**
-- Wednesday 3/22, 12-2 PM, 6-8:30 PM
-- Thursday 3/23, 5-8:30
-- ~~Friday 3/24, 4:30-6~~ **Canceled due to building access challenges**
+Pigott Hall is closed for spring break, but we'll have the Makerspace open for a few hours while Quinn is around. Text Quinn at 773-369-7688 when you get to the building to be let in.
 
-We'll be open for a few hours during spring break, most likely on Monday and Thursday. Details & access info coming soon!
+- Monday 3/27, 2:30-6:30 PM
+- Thursday 3/30, TBD sometime 8 AM - 4 PM possibly with breaks? Email qad@stanford.edu if you want to come by Thursday and we can figure something out.
