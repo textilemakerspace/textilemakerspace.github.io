@@ -12,10 +12,11 @@ seo:
   image:
 ---
 
-The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page.
+The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page and update it frequently.
 
-## Spring break schedule
+## Spring hours
 
-Pigott Hall is closed for spring break, but we'll have the Makerspace open for a few hours while Quinn is around. Text Quinn at 773-369-7688 when you get to the building to be let in.
-
-- Thursday 3/30, **Crochet clinic** 1-4 PM. Text Quinn at 773-369-7688 to be let in if you'd like to join, or drop by to use our other equipment.
+- Tuesday 3/4: 10:30 AM - 4:30 PM, 6-8:30 PM
+- Wednesday 3/5: 8:30-9:30 AM, 4:30-6 PM
+- Thursday 3/6: 
+- Friday 3/7: 3-5 PM

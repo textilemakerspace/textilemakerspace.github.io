@@ -52,6 +52,11 @@ pre code {
 	@apply bg-transparent border-0 rounded-none;
 }
 
+.smallimg {
+	max-width: 600px;
+	float:right;
+}
+
 @tailwind components;
 
 @tailwind utilities;
