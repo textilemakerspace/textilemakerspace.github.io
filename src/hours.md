@@ -14,7 +14,7 @@ seo:
 
 The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page and update it frequently.
 
-## Spring hours
+## Spring hours (next week TBD)
 
 - Tuesday 3/4: 10:30 AM - 4:30 PM, 6-8:30 PM
 - Wednesday 3/5: 8:30-9:30 AM, 1-4 PM, 4:30-6 PM, 7-9 PM
