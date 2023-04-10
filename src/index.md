@@ -39,8 +39,6 @@ heroSettings:
 
 The Textile Makerspace provides a drop-in space for Stanford students, faculty, and staff to sew, knit, crochet, weave, and do other hands-on creative work with textiles. Our [hours](hours) vary depending on when people are available to staff it **but we now have afternoon/evening hours** thanks to student staff and volunteers! Check out our hours page for details.
 
-Interested in data visualization and learning how to use textile tools and methods? Sign up for *DLCL 203: Data Visualization with Textiles*, a 1-credit independent study where you'll get hands-on experience using the equipment at the Textile Makerspace.
-
 ## Equipment & supplies
 The Textile Makerspace currently has:
 
