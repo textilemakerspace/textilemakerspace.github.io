@@ -14,9 +14,13 @@ seo:
 
 The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page and update it frequently.
 
-## Spring hours (next week TBD)
 
-- Tuesday 4/4: 10:30 AM - 4:30 PM, 6-8:30 PM
-- Wednesday 4/5: 8:30-9:30 AM, 1-4 PM, 4:30-6 PM, 7-9 PM
-- Thursday 4/6: 2-4:30 PM
-- Friday 4/7: 3-5 PM
+## Spring hours
+
+* Monday, 4/10: 12-4 PM (Quinn + Kavya)
+* **Special pop-up in Green Library - Hohbach Hall: Needle felting** Tuesday, 4/11, 2-4 PM (Quinn)
+* Tuesday, 4/11: 4-9 PM (Shaina)
+* Wednesday, 4/12: 4:30-9 (Kavya + Shaina)
+* Thursday, 4/13: 1-3:50 (Quinn), 5-9 (Akasha)
+* Friday, 4/14: 3-5 (Kavya)
+
