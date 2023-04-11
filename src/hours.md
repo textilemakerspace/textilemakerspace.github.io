@@ -17,7 +17,7 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Spring hours
 
-* Monday, 4/10: 12-4 PM (Quinn + Kavya), 5-7:30 (Cristyn), 7-9 PM (Akasha)
+* Monday, 4/10: 12-4 PM (Quinn + Kavya), 5-9 PM (Cristyn + Akasha)
 * **Special pop-up in Green Library - Hohbach Hall: Needle felting** Tuesday, 4/11, 2-4 PM (Quinn)
 * Tuesday, 4/11: 4-9 PM (Shaina)
 * Wednesday, 4/12: 12-3 (Akasha), 4:30-9 (Kavya + Shaina)
