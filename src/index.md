@@ -37,7 +37,7 @@ heroSettings:
 ---
 
 
-The Textile Makerspace provides a drop-in space for Stanford students, faculty, and staff to sew, knit, crochet, weave, and do other hands-on creative work with textiles. Our [hours](hours) vary depending on when people are available to staff it **but we now have afternoon/evening hours** thanks to student staff and volunteers! Check out our hours page for details.
+The Textile Makerspace provides a drop-in space for Stanford students, faculty, and staff to sew, knit, crochet, weave, and do other hands-on creative work with textiles. Our [hours](hours) vary depending on when people are available to staff it **but we now have afternoon/evening hours** thanks to student staff and volunteers! Check out our hours page for details. You can also [join our mailing list](https://mailman.stanford.edu/mailman/listinfo/textilemakerspace) for news and updates.
 
 ## Equipment & supplies
 The Textile Makerspace currently has:
@@ -47,12 +47,14 @@ The Textile Makerspace currently has:
 - Bernina 2500dcet serger/coverstitch
 - Janome 900cpx coverstitch
 - Brother PE800 Embroidery Machine
+- Brother KH-940 digital knitting machine
 - 80s/90s vintage knitting machine
 - Cricut Maker
 - Vinyl heat press
 - Iron & ironing board
 - Cutting board & rotary cutter
 - Tabletop snap press
+- Needle felting supplies
 - Embroidery hoops
 - Personal-size and large looms
 - Darning loom
