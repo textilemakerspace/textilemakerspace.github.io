@@ -25,5 +25,6 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 
 ## Upcoming events & workshops
-* Tuesday, 4/17 3-4 PM, how to use sewing patterns workshop with Quinn
+* Tuesday, 4/18 3-4 PM, how to use sewing patterns workshop with Quinn
+* Wednesday 4/19 3-4 PM, textile data visualization with Quinn
 * Tuesday, 5/9 2-4 PM, pop-up in Green Library - Hohbach Hall: Ukrainian embroidery
