@@ -18,6 +18,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 ## Spring hours
 
 * Monday, 4/17: 1-2 (Natalie), 5-9 (Cristyn + Kavya)
+* **Tuesday, 4/18 12-1 PM, intro to crochet with Mary-Ellen Petrich**
+* **Tuesday, 4/18 3-4 PM, how to use sewing patterns workshop with Quinn**
 * Tuesday, 4/18: 12-3 (Akasha), 4-9 (Shaina)
 * Wednesday, 4/19: 10:30-3 (Quinn + Akasha), 3-9 (Kavya + Shaina)
 * Thursday, 4/20: 5-9 (Cristyn + Kavya)
@@ -25,6 +27,7 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 
 ## Upcoming events & workshops
+* Tuesday, 4/18 12-1 PM, intro to crochet with Mary-Ellen Petrich
 * Tuesday, 4/18 3-4 PM, how to use sewing patterns workshop with Quinn
 * Wednesday 4/19 3-4 PM, textile data visualization with Quinn
 * Tuesday, 5/9 2-4 PM, pop-up in Green Library - Hohbach Hall: Ukrainian embroidery
