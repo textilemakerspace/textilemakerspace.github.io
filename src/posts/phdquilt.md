@@ -3,7 +3,7 @@ title: PhD Quilt # will be overwritten by SEO.title below
 date: 2023-04-23
 layout: post
 author: quinnanya
-permalink: phdquilt
+permalink: /phdquilt/
 seo:
   title: "Data Visualization: PhD Quilt" # overrides 'title' above on both Page and META
   description: 'An example of data visualization based on the experience of getting a PhD'

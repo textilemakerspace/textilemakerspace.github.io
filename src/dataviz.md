@@ -16,4 +16,4 @@ The Textile Makerspace is the location for *DLCL 203: Data Visualization with Te
 
 Here's some examples of textile data visualization:
 
-* [PhD quilt wall hanging](/phdquilt)
+* [PhD quilt wall hanging](/phdquilt/)
