@@ -16,8 +16,7 @@
       <link href="http://localhost:8080/phdquilt/"/>
       <updated>2023-04-23T00:00:00Z</updated>
       <id>http://localhost:8080/phdquilt/</id>
-      <content type="html">&lt;p&gt;&lt;em&gt;by Quinn Dombrowski&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
+      <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Context&lt;/h2&gt;
 &lt;p&gt;I made this data visualization PhD quilt in 2013 when my husband, Andy, graduated with a dual PhD in linguistics and Slavic linguistics. I had been sewing for 3 years at that point (only with wovens), and had never done anything quilt-like before.&lt;/p&gt;
 &lt;p&gt;My husband’s dissertation was on phonological contact, particularly between Slavic and non-Slavic languages. At the point when I was making this visualization, he had decided to be done with academia and pursue something in the biomedical field. I wanted this to be a tribute to everything he had done, in the context of what he was planning to do next.&lt;/p&gt;
@@ -141,9 +140,9 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 &lt;p&gt;&lt;strong&gt;South Slavic (gray / rocks)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Latin / Cyrillic font, trilingual text (BCS, Macedonian, Bulgarian)&lt;/li&gt;
-&lt;li&gt;Multiple texts, single combined alphabet&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-sslavic.jpg&quot; alt=&quot;South Slavic design&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Multiple texts, single combined alphabet&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-sslavic.jpg&quot; alt=&quot;South Slavic design&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Evolution / language contact / language change (gradient / sky)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mashup&lt;/li&gt;
