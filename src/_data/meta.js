@@ -7,8 +7,6 @@ module.exports = {
 	lang: 'en',
 	locale: 'en_us',
 	authorName: 'Quinn Dombrowski',
-	authorURL: 'quinn-dombrowski',
+	authorURL: 'https://www.quinndombrowski.com',
 	authorEmail: 'qad@stanford.edu',
-	twitterSite: '@quinnanya',
-	twitterCreator: '@quinnanya',
 }
