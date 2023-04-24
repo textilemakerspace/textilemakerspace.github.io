@@ -13,9 +13,9 @@
     
     <entry>
       <title>PhD Quilt</title>
-      <link href="http://localhost:8080/phdquilt"/>
+      <link href="http://localhost:8080/phdquilt/"/>
       <updated>2023-04-23T00:00:00Z</updated>
-      <id>http://localhost:8080/phdquilt</id>
+      <id>http://localhost:8080/phdquilt/</id>
       <content type="html">&lt;p&gt;&lt;em&gt;by Quinn Dombrowski&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Context&lt;/h2&gt;
