@@ -121,3 +121,25 @@ pre[class*="language-"] {
 .token.entity {
 	cursor: help;
 }
+
+
+.gallery {
+    margin: 32px 0;
+    column-count: 4;
+    column-gap: 8px;
+}
+
+.gallery a {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    margin-bottom: 8px;
+    break-inside: avoid;
+    text-decoration: none;
+}
+
+.gallery img {
+    max-width: 100%;
+    display: block;
+    grid-row: 1 / -1;
+    grid-column: 1;
+}

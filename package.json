@@ -33,7 +33,7 @@
     "build": "run-s clean build:* --print-label"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
@@ -63,5 +63,8 @@
     "webpack": "^5.72.0",
     "webpack-cli": "^4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@11ty/eleventy-img": "^3.1.0",
+    "sharp": "^0.32.0"
+  }
 }
