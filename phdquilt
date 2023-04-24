@@ -340,7 +340,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 
   
     <div>
-      <a rel="noreferrer" aria-label="Share on LinkedIn" id="sharevialinkedin" class="text-gray-700 hover:text-gray-800" alt="Share on LinkedIn" href="https://linkedin.com/shareArticle?mini=true&title=Data%20Visualization%20with%20Textiles&url=http://localhost:8080/phdquilt" target="_blank">
+      <a rel="noreferrer" aria-label="Share on LinkedIn" id="sharevialinkedin" class="text-gray-700 hover:text-gray-800" alt="Share on LinkedIn" href="https://linkedin.com/shareArticle?mini=true&title=PhD%20Quilt&url=http://localhost:8080/phdquilt" target="_blank">
         <svg class="fill-current mx-2 h-6 w-6 fill-current" aria-describedby="symbol-linkedin-desc" aria-labelledby="symbol-linkedin-desc" role="group">
                   <desc id="symbol-linkedin-desc-share">LinkedIn logo</desc>
                   <use xlink:href="#svg-linkedin"></use>
@@ -363,7 +363,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 
 
   <div>
-    <a rel="noreferrer" aria-label="Share on Reddit" id="shareviareddit" class="text-gray-700 hover:text-gray-800" alt="Share on Reddit"  href="https://reddit.com/submit?url=http://localhost:8080/phdquilt&title=Data%20Visualization%20with%20Textiles"  target="_blank">
+    <a rel="noreferrer" aria-label="Share on Reddit" id="shareviareddit" class="text-gray-700 hover:text-gray-800" alt="Share on Reddit"  href="https://reddit.com/submit?url=http://localhost:8080/phdquilt&title=PhD%20Quilt"  target="_blank">
       <svg class="fill-current mx-2 h-6 w-6 fill-current" aria-describedby="symbol-reddit-desc" aria-labelledby="symbol-reddit-desc" role="group">
                   <desc id="symbol-reddit-desc-share">Reddit logo</desc>
                   <use xlink:href="#svg-reddit"></use>
@@ -374,7 +374,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 
 
   <div>
-    <a rel="noreferrer" aria-label="Share on Twitter" id="shareviatwitter" class="text-gray-700 hover:text-gray-800" alt="Share on Twitter"  href="https://twitter.com/share?text=Data%20Visualization%20with%20Textiles&url=http://localhost:8080/phdquilt">
+    <a rel="noreferrer" aria-label="Share on Twitter" id="shareviatwitter" class="text-gray-700 hover:text-gray-800" alt="Share on Twitter"  href="https://twitter.com/share?text=PhD%20Quilt&url=http://localhost:8080/phdquilt">
       <svg class="fill-current mx-2 h-6 w-6 fill-current" aria-describedby="symbol-twitter-desc" aria-labelledby="symbol-twitter-desc" role="group">
                   <desc id="symbol-twitter-desc-share">Twitter logo</desc>
                   <use xlink:href="#svg-twitter"></use>
@@ -385,7 +385,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 
 
   <div>
-    <a rel="noreferrer"  aria-label="Share via email" id="shareviaemail" class="text-gray-700 hover:text-gray-800" alt="Share via Email"  href="mailto:?subject=Data%20Visualization%20with%20Textiles&body=http://localhost:8080/phdquilt">
+    <a rel="noreferrer"  aria-label="Share via email" id="shareviaemail" class="text-gray-700 hover:text-gray-800" alt="Share via Email"  href="mailto:?subject=PhD%20Quilt&body=http://localhost:8080/phdquilt">
       <svg class="fill-current mx-2 h-6 w-6 fill-current" aria-describedby="symbol-email-desc" aria-labelledby="symbol-email-desc" role="group">
                   <desc id="symbol-email-desc-share">Send email</desc>
                   <use xlink:href="#svg-email"></use>
