@@ -10,9 +10,6 @@ seo:
   image: '/assets/images/dissertation-final.jpg'
 ---
 
-*by Quinn Dombrowski*
-
-
 ![PhD quilt visualization](/assets/images/dissertation-final.jpg)
 
 ## Context

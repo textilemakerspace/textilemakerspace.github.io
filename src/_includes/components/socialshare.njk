@@ -38,14 +38,6 @@
   </div>
 {% endif %}
 
-{% if structure.g_showShareTwitter %}
-  <div>
-    <a rel="noreferrer" aria-label="Share on Twitter" id="shareviatwitter" class="{{ colors.socialShareCustom.color or colors.socialShareDefault.color }} hover:{{ colors.socialShareCustom.hover or colors.socialShareDefault.hover }}" alt="Share on Twitter"  href="https://twitter.com/share?text={{ title | urlencode }}&url={{ absolutePageUrl }}">
-      {% svg "twitter", "mx-2 h-6 w-6 fill-current", "Twitter logo", "share" %}
-    </a>
-  </div>
-{% endif %}
-
 {% if structure.g_showShareEmail %}
   <div>
     <a rel="noreferrer"  aria-label="Share via email" id="shareviaemail" class="{{ colors.socialShareCustom.color or colors.socialShareDefault.color }} hover:{{ colors.socialShareCustom.hover or colors.socialShareDefault.hover }}" alt="Share via Email"  href="mailto:?subject={{ title | urlencode }}&body={{ absolutePageUrl }}">
