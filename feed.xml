@@ -4,10 +4,181 @@
   <subtitle>A makerspace at Stanford for sewing, knitting, crochet, weaving &amp; other creativity with textiles.</subtitle>
   <link href="http://localhost:8080"/>
   <link href="http://localhost:8080/feed.xml" rel="self"/>
-  <updated>2023-04-24T02:13:01Z</updated>
+  <updated>2023-04-23T00:00:00Z</updated>
   <id>http://localhost:8080</id>
   <author>
     <name>Quinn Dombrowski</name>
     <email>qad@stanford.edu</email>
   </author>
+    
+    <entry>
+      <title>Data Visualization with Textiles</title>
+      <link href="http://localhost:8080/data-visualization-with-textiles/"/>
+      <updated>2023-04-23T00:00:00Z</updated>
+      <id>http://localhost:8080/data-visualization-with-textiles/</id>
+      <content type="html">&lt;p&gt;&lt;em&gt;by Quinn Dombrowski&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Context&lt;/h2&gt;
+&lt;p&gt;I made this data visualization PhD quilt in 2013 when my husband, Andy, graduated with a dual PhD in linguistics and Slavic linguistics. I had been sewing for 3 years at that point (only with wovens), and had never done anything quilt-like before.&lt;/p&gt;
+&lt;p&gt;My husband’s dissertation was on phonological contact, particularly between Slavic and non-Slavic languages. At the point when I was making this visualization, he had decided to be done with academia and pursue something in the biomedical field. I wanted this to be a tribute to everything he had done, in the context of what he was planning to do next.&lt;/p&gt;
+&lt;h2&gt;The data&lt;/h2&gt;
+&lt;p&gt;On March 15, 2013, I was trying to sort out numbers to quantify his time in the PhD program in various ways.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Big things&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1 marriage)&lt;/li&gt;
+&lt;li&gt;1 dissertation (6 chapters)&lt;/li&gt;
+&lt;li&gt;1 proposal&lt;/li&gt;
+&lt;li&gt;1 QP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Exams (9 total)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 ling masters exams&lt;/li&gt;
+&lt;li&gt;3 Slavic PhD exams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Classes (50)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teaching (6 taught, 25 lectureships)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1st year Russian - 5x&lt;/li&gt;
+&lt;li&gt;Russian Through Pushkin - 6x&lt;/li&gt;
+&lt;li&gt;4th year Russian - 9x&lt;/li&gt;
+&lt;li&gt;2nd year Russian - 1x&lt;/li&gt;
+&lt;li&gt;South Slavic I &amp;amp; II - 2x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Language drills&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Russian Through Pushkin - 3x (head of Pushkin)&lt;/li&gt;
+&lt;li&gt;2nd year Russian - 3x (borscht)&lt;/li&gt;
+&lt;li&gt;4th year Russian - 3x (border of Soviet Union)&lt;/li&gt;
+&lt;li&gt;1st year BCS - 6x&lt;/li&gt;
+&lt;li&gt;2nd year BCS - 6x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Writing intern (2 classes, 8 total)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Language and the Human - 5x&lt;/li&gt;
+&lt;li&gt;Human Being and Citizen - 3x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Languages taken (13)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Russian&lt;/li&gt;
+&lt;li&gt;BCS&lt;/li&gt;
+&lt;li&gt;Albanian&lt;/li&gt;
+&lt;li&gt;Macedonian&lt;/li&gt;
+&lt;li&gt;Bulgarian&lt;/li&gt;
+&lt;li&gt;Turkish&lt;/li&gt;
+&lt;li&gt;Uzbek&lt;/li&gt;
+&lt;li&gt;Georgian&lt;/li&gt;
+&lt;li&gt;Old Turkic&lt;/li&gt;
+&lt;li&gt;Old Russian&lt;/li&gt;
+&lt;li&gt;Chechen&lt;/li&gt;
+&lt;li&gt;Aromanian&lt;/li&gt;
+&lt;li&gt;French&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Publications (11)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fellowships (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Whiting Dissertation Fellowship&lt;/li&gt;
+&lt;li&gt;Century Fellowship&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Talks and presentations (34 + Slavic Forum)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other numbers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 departments&lt;/li&gt;
+&lt;li&gt;7 years&lt;/li&gt;
+&lt;li&gt;3 summer seminars (Albanian, Macedonian, medieval Slavic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The design&lt;/h2&gt;
+&lt;p&gt;There was more data than I could reasonably squeeze into a quilt of the size I imagined. So I had to narrow it down to what seemed like the most important things, and then map them to elements of the design. I don’t remember how I/we came up with the design idea, but I have these notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 rays off sun for 6 chapters&lt;/li&gt;
+&lt;li&gt;ball of sun&lt;/li&gt;
+&lt;li&gt;publications &amp;amp; conference papers&lt;/li&gt;
+&lt;li&gt;earth/rocks for courses, languages&lt;/li&gt;
+&lt;li&gt;teaching is sky?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below that, a break in the notes, and a sketch I think Andy made:&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/phdquilt_design.jpg&quot; alt=&quot;Sketch design for the PhD quilt&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dissertation = sun + 6 chapters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;11 publications&lt;/li&gt;
+&lt;li&gt;34-35 talks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Teaching = sky&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 classes, 25 lectureships&lt;/li&gt;
+&lt;li&gt;6 drills - 24 sessions&lt;/li&gt;
+&lt;li&gt;2 writing internships, 8 total&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Exams (9) = water&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Classes taken (50) = rocks&lt;/strong&gt;&lt;br /&gt;
+Here the notes look like I was trying to roughly calculate what size the rocks should be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10&amp;quot; high (+ extra), 36&amp;quot; wide&lt;/li&gt;
+&lt;li&gt;2 extras&lt;/li&gt;
+&lt;li&gt;48 / 4 = 12&lt;/li&gt;
+&lt;li&gt;less than 1 high, more than 3 wide&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Languages learned (13) = grass&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;The colors&lt;/h2&gt;
+&lt;p&gt;The numbers of fabric pieces in each zone of the design represented one set of things (as described above), but the colors and actual fabric design for each zone had a different symbolism.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slavia Orthodoxa (green/grass)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text-based&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Old_Church_Slavonic&quot;&gt;Old Church Slavonic&lt;/a&gt; Bible quote&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Birch_bark_manuscript#Old_Slavonic_script&quot;&gt;Birchbark letters&lt;/a&gt; (note: the birchbark letter I used was &lt;a href=&quot;http://gramoty.ru/birchbark/document/show/novgorod/605/&quot;&gt;#605&lt;/a&gt;, an excerpt from which is on our wedding rings)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-medieval.jpg&quot; alt=&quot;Green Slavic design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Turkish (blue/water)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ottoman poetry / calligraphy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-turkish.jpg&quot; alt=&quot;Blue Turkish design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Albanian (yellow / sun)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mashup of less-well-known alphabets witha good text&lt;/li&gt;
+&lt;li&gt;One text, many alphabets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-albanian-color.jpg&quot; alt=&quot;Yellow Albanian design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;South Slavic (gray / rocks)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Latin / Cyrillic font, trilingual text (BCS, Macedonian, Bulgarian)&lt;/li&gt;
+&lt;li&gt;Multiple texts, single combined alphabet&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-sslavic.jpg&quot; alt=&quot;South Slavic design&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Evolution / language contact / language change (gradient / sky)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mashup&lt;/li&gt;
+&lt;li&gt;Phonology / IPA (International Phonetic Alphabet)&lt;/li&gt;
+&lt;li&gt;Evolution, adaptive landscape, bio reference TBD&lt;/li&gt;
+&lt;li&gt;Symbolic of language contact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This one was the most challenging to render, as you might guess from the vague notes. There were 5 versions of the double helix design, which is what we settled on for the “bio reference TBD”. We ended up using a variety of different scripts for T/C/A/G on the double helix:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cyrillic&lt;/li&gt;
+&lt;li&gt;Georgian a, t, ts, g (ejectives)&lt;/li&gt;
+&lt;li&gt;Devanagari&lt;/li&gt;
+&lt;li&gt;Arabo-persian t, emphatic t; k g&lt;/li&gt;
+&lt;li&gt;Greek (alpha, tao, kappa, gamma)&lt;/li&gt;
+&lt;li&gt;Glagolitic&lt;/li&gt;
+&lt;li&gt;medieval Cyrillic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix1.jpg&quot; alt=&quot;Double helix design, version 1&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix2.jpg&quot; alt=&quot;Double helix design, version 2&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix3.jpg&quot; alt=&quot;Double helix design, version 3&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix4.jpg&quot; alt=&quot;Double helix design, version 4&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix5.jpg&quot; alt=&quot;Double helix design, version 5&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Because the sky was going to be a gradient (to represent the sunset on an academic career, and the sunrise on a biomedical career), I created a final design that would have the double helix in different colors depending on the color of the background:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix-final.jpg&quot; alt=&quot;Double helix design, final&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;The final fabric&lt;/h2&gt;
+&lt;p&gt;I put together a final design that was 42&amp;quot; wide (the max printing width for woven fabrics on &lt;a href=&quot;https://www.spoonflower.com/&quot;&gt;Spoonflower&lt;/a&gt;) and 108&amp;quot; long (3 yards), with enough of each fabric design for me to cut out the necessary number of pieces. (Want to see the full resolution version in all its detail? &lt;a href=&quot;http://localhost:8080/assets/images/dissertation-final.pdf&quot;&gt;Click here for a PDF&lt;/a&gt;).)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-finalfabric.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Cutting and sewing&lt;/h2&gt;
+&lt;p&gt;I only have one photo of me working on this project: chopping up the gray rocks fabric.&lt;br /&gt;
+&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-cutting.jpg&quot; alt=&quot;Cutting up fabric for the dissertation quilt&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Looking at the back of the piece, it’s apparent how very “winging it” the whole thing was, cutting and sewing approximations that I hoped would work well enough… and sewing things with more or less seam allowance on the fly when they weren’t working out well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-back.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;What happened next&lt;/h2&gt;
+&lt;p&gt;The sides were… not straight. Certainly not straight enough that I could finish them easily, without completely losing some of the fabric pieces that were important for the counts. The sun ball did not lay flat, and was curved and sort of puffy regardless of what I did with it. Also, our first kid was born in November 2013, so soon after this project I became preoccupied with baby stuff. It went into a closet. Then was moved to another closet when we moved to our current house three years later. I forgot about it altogether, honestly.&lt;/p&gt;
+&lt;p&gt;But teaching &lt;em&gt;Data Visualization with Textiles&lt;/em&gt; gave me a chance to revisit it, and you know, I’m now going to figure out a way to hem it, even if I have to pad out the edges a bit. And I’m going to hang it up. It meant a lot to me and my husband that I rediscovered this in the depths of the fabric closet, and now I feel proud of it as the beginning of something I didn’t even recognize as being a thing at the time. There are things in our lives that are these recurring themes, that echo in different ways at different times. For me, I think &lt;em&gt;textiles + data viz&lt;/em&gt; is one of them.&lt;/p&gt;
+</content>
+    </entry>
 </feed>
