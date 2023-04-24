@@ -120,6 +120,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 The numbers of fabric pieces in each zone of the design represented one set of things (as described above), but the colors and actual fabric design for each zone had a different symbolism.
 
 **Slavia Orthodoxa (green/grass)**
+
 * Text-based
 * [Old Church Slavonic](https://en.wikipedia.org/wiki/Old_Church_Slavonic) Bible quote
 * [Birchbark letters](https://en.wikipedia.org/wiki/Birch_bark_manuscript#Old_Slavonic_script) (note: the birchbark letter I used was [#605](http://gramoty.ru/birchbark/document/show/novgorod/605/), an excerpt from which is on our wedding rings)
@@ -127,23 +128,28 @@ The numbers of fabric pieces in each zone of the design represented one set of t
 ![Green Slavic design](/assets/images/dissertation-medieval.jpg)
 
 **Turkish (blue/water)**
+
 * Ottoman poetry / calligraphy
 
 ![Blue Turkish design](/assets/images/dissertation-turkish.jpg)
 
 **Albanian (yellow / sun)**
+
 * Mashup of less-well-known alphabets witha good text
 * One text, many alphabets
 
 ![Yellow Albanian design](/assets/images/dissertation-albanian-color.jpg)
 
 **South Slavic (gray / rocks)**
+
 * Latin / Cyrillic font, trilingual text (BCS, Macedonian, Bulgarian)
 * Multiple texts, single combined alphabet
+
 ![South Slavic design](/assets/images/dissertation-sslavic.jpg)
 
 
 **Evolution / language contact / language change (gradient / sky)**
+
 * Mashup
 * Phonology / IPA (International Phonetic Alphabet)
 * Evolution, adaptive landscape, bio reference TBD
