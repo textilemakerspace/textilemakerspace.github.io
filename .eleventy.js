@@ -6,6 +6,16 @@ const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
 const markdownIt = require('markdown-it')
 const markdownItEmoji = require('markdown-it-emoji')
 
+// Base setup for builds, needed for og tags and correct image paths
+// (mostly for github pages deployment, see build-deploy.yaml)
+const baseUrl = process.env.BASE_URL || 'https://textilemakerspace.stanford.edu/';
+// e.g. 'https://mandrasch.github.io/'
+const pathPrefix = process.env.PATH_PREFIX || '';
+// e.g. '/11ty-plain-boostrap5/'
+console.log('baseUrl is set to ...', baseUrl);
+console.log('pathPrefix is set to ...', pathPrefix);
+
+
 // const collections = require('./utils/collections.js')
 const filters = require('./utils/filters.js')
 const shortcodes = require('./utils/shortcodes.js')
