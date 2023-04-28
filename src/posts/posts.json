@@ -1,5 +1,4 @@
 {
-	"layout": "blog.html",
 	"tags": ["post"],
 	"author": "{{ meta.author }}"
 }
