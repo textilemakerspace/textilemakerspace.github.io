@@ -165,6 +165,7 @@ eleventyConfig.addPassthroughCopy("src/CNAME");
 	eleventyConfig.addLayoutAlias('page', 'layouts/page.njk')
 	eleventyConfig.addLayoutAlias('post', 'layouts/post.njk')
 	eleventyConfig.addLayoutAlias('author', 'layouts/author.njk')
+eleventyConfig.addLayoutAlias('equipment', 'layouts/equipment.njk')
 
 	/**
 	 * Opts in to a full deep merge when combining the Data Cascade.

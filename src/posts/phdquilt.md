@@ -1,7 +1,6 @@
 ---
 title: PhD Quilt # will be overwritten by SEO.title below
 date: 2023-04-23
-layout: post
 author: quinnanya
 permalink: /phdquilt/
 seo:
