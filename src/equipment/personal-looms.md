@@ -2,6 +2,10 @@
 title: Personal looms
 image: '/assets/images/equipment_personallooms.jpg'
 permalink: '/equipment/personal-looms/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'weaving'
 updated: 2023-04-26
 ---

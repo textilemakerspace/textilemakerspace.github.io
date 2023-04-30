@@ -2,6 +2,10 @@
 title: Snap handpress
 image: '/assets/images/equipment_snaphandpress.jpg'
 permalink: '/equipment/snap-handpress/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'other'
 updated: 2023-04-26
 ---

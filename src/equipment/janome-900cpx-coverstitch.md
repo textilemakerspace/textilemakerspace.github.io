@@ -2,6 +2,10 @@
 title: "Janome 900cpx coverstitch"
 image: '/assets/images/equipment_janome900.jpg'
 permalink: '/equipment/janome-900cpx-coverstitch/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'sewing'
 updated: 2023-04-26
 ---

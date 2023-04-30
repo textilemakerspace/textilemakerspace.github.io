@@ -2,6 +2,10 @@
 title: Crochet hooks
 image: '/assets/images/equipment_crochet.jpg'
 permalink: '/equipment/crochet-hooks/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'needlework'
 subtype: 'assorted crochet hooks'
 updated: 2023-04-26

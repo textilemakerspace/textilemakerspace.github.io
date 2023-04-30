@@ -26,9 +26,9 @@ layout: default.html
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+         <!-- {% if title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-          </h1>{% endif %}
+          </h1>{% endif %}-->
           {% include components/page__meta.html %}
         </header>
       {% endunless %}

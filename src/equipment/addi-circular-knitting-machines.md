@@ -2,6 +2,10 @@
 title: Addi circular knitting machines
 image: '/assets/images/equipment_addi.jpg'
 permalink: '/equipment/addi-circular-knitting-machines/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'needlework'
 subtype: 'regular and xl'
 updated: 2023-04-26

@@ -2,6 +2,10 @@
 title: "Babylock Jubilant sewing machine"
 permalink: '/equipment/babylock-jubilant-sewing-machine'
 image: '/assets/images/equipment_jubilant.jpg'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'sewing'
 updated: 2023-04-26
 ---

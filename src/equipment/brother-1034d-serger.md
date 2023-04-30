@@ -2,6 +2,10 @@
 title: Brother 1034d serger
 image: '/assets/images/equipment_serger.jpg'
 permalink: '/equipment/brother-1034d-serger/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'sewing'
 subtype: 'serger'
 updated: 2023-04-26

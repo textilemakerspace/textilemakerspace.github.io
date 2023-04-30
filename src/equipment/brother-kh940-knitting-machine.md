@@ -2,6 +2,10 @@
 title: Brother KH-940 knitting machine
 image: '/assets/images/equipment_kh940.jpg'
 permalink: '/equipment/brother-kh940-knitting-machine/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'knitting'
 subtype: 'knitting machine'
 updated: 2023-04-26

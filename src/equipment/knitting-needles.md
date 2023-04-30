@@ -2,6 +2,10 @@
 title: Knitting needles
 image: '/assets/images/equipment_knitting.jpg'
 permalink: '/equipment/knitting-needles/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'needlework'
 subtype: 'assorted knitting needles'
 updated: 2023-04-26

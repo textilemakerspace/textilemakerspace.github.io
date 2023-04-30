@@ -2,6 +2,10 @@
 title: Studio Mod 360 Punchcard Knitting Machine
 image: '/assets/images/equipment_mod360.jpg'
 permalink: '/equipment/studio-mod360-punchcard-knitting-machine/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'knitting'
 subtype: 'knitting machine'
 updated: 2023-04-26

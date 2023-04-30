@@ -2,6 +2,10 @@
 title: Cricut Maker
 image: '/assets/images/equipment_cricutmaker.jpg'
 permalink: '/equipment/cricut-maker/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'other'
 updated: 2023-04-26
 ---
@@ -11,10 +15,6 @@ Need a fancy birthday card, a quippy t-shirt, a fancy appliqué to sew on someth
 ## Supplies
 
 There's a stash of iron-on vinyl, sticker vinyl, removable sticker vinyl, and colorful paper in the cabinet and you're welcome to use them. I've also got a collection of black pens (of various widths) and colorful gel pens next to me that are compatible with my pen holder. To attach iron-on vinyl to fabric, use the heat press in the cabinet. 
-
-
-## Tricks and tips
-
 
 
 ## Fun facts

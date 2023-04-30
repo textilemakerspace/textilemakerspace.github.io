@@ -1,12 +1,12 @@
 ---
-title: PhD Quilt # will be overwritten by SEO.title below
+title: PhD Quilt
 date: 2023-04-23
 author: quinnanya
 permalink: /phdquilt/
-seo:
-  title: "Data Visualization: PhD Quilt" # overrides 'title' above on both Page and META
-  description: 'An example of data visualization based on the experience of getting a PhD'
-  image: '/assets/images/dissertation-final.jpg'
+header:
+  overlay_image: /assets/images/header_phdquilt.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 ---
 
 ![PhD quilt visualization](/assets/images/dissertation-final.jpg)

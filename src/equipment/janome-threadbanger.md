@@ -2,6 +2,10 @@
 title: 'Janome Threadbanger sewing machine'
 image: '/assets/images/equipment_threadbanger.jpg'
 permalink: '/equipment/janome-threadbanger-sewing-machine/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'sewing'
 updated: 2023-04-26
 ---

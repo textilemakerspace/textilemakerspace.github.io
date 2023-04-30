@@ -1,0 +1,46 @@
+---
+layout: single.html
+permalink: /about/
+title: "About"
+header:
+  overlay_image: /assets/images/header_about.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
+last_modified_at: 2022-01-09
+---
+
+<h2>Why a Textile Makerspace in the DLCL?</h2>
+
+The Division of Literatures, Cultures, and Languages has a long history of supporting diverse, innovative digital humanities scholarship. Over the last decade, connections have strengthened between digital humanities and the maker movement, with several DH labs building out makerspaces and fostering communities around critical making praxis, data physicalization, and breathing new life into legacy technologies.
+
+From the Incan method of recording data using *quipu* strings and knots, to Belgian knitter-spies recording troop movements in WWI, textiles have a long history of entanglement with language and culture that merit exploration and cultivation, especially in a time when many people are looking to make something "real" as a break from the ever-present digital.
+
+At the Textile Makerspace, we teach methods for creating and using textiles and fibers, as well as how to incorporate data into textile praxis. But it's not primarily a research lab: the Textile Makerspace is a place where anyone is invited to explore these tools and methods in a hands-on way, whether or not their curiosity is connected to their academic work. We believe that stepping away from academic work is important and necessary, and we welcome everyone to come take a break and make something -- or just practice a new skill.
+
+Wondering how all this came to be? Read more about how the Textile Makerspace came to be and evolved over time on the <a href="/history">Textile Makerspace history page</a>.
+
+<h2>People</h2>
+
+<div class="entries-grid">
+{%- for person in collections.people -%}
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <img src="{{person.data.image}}" / >
+	<h3 class="archive__item-title no_toc" itemprop="headline">{{ person.data.title }}</h3>
+    {% if person.data.blurb %}<p class="archive__item-excerpt" itemprop="description">{{ person.data.blurb | markdownify | strip_html }}</p>{% endif %}
+  </article>
+</div>
+{% endfor %}
+</div>
+
+
+<h2>Alumni</h2>
+
+We are grateful to the people who have helped staff the Textile Makerspace over the years:
+
+<ul>
+<li>Margarita Nafpaktitis (2019-2020)</li>
+<li>Nichole Nomura (2019-2020)</li>
+<li>Kathleen Smith (2019-2020)</li>
+</ul>

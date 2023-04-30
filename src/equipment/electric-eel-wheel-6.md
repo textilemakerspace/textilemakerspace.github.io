@@ -2,6 +2,10 @@
 title: Electric Eel Wheel 6 e-spinner
 image: '/assets/images/equipment_eew6.jpg'
 permalink: '/equipment/eew6-espinner/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'fiber'
 subtype: 'e-spinner to make yarn'
 updated: 2023-04-26

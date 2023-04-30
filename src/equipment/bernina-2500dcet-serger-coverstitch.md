@@ -2,6 +2,10 @@
 title: Bernina 2500dcet serger/coverstitch
 image: '/assets/images/equipment_oldserger.jpg'
 permalink: '/equipment/bernina-2500dcet-serger-coverstitch/'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'sewing'
 updated: 2023-04-26
 ---

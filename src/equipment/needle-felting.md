@@ -2,6 +2,10 @@
 title: Needle felting
 permalink: '/equipment/needle-felting/'
 image: '/assets/images/equipment_felting.jpg'
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
 type: 'needlework'
 subtype: 'needle felting kits'
 updated: 2023-04-26
