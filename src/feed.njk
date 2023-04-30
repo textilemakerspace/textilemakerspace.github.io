@@ -1,32 +1,38 @@
 ---json
 {
+  "layout": "blank.html",
   "permalink": "feed.xml",
-  "eleventyExcludeFromCollections": true
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Quinn Dombrowski: Blog",
+    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "url": "http://www.quinndombrowski.com",
+    "feedUrl": "http://www.quinndombrowski.com/feed.xml",
+    "author": {
+      "name": "Quinn Dombrowski"
+    }
+  }
 }
 ---
-{# set absolutePageURL to use later in  canonical and og URLs #}
-{%- set absolutePageUrl -%}{{ page.url | url | absoluteUrl(build.url) }}{%- endset -%}
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ meta.siteName }}</title>
-  <subtitle>{{ meta.siteDescription }}</subtitle>
-  <link href="{{ meta.siteURL }}"/>
-  <link href="{{ absolutePageUrl }}" rel="self"/>
-  <updated>{{ collections.post | rssLastUpdatedDate }}</updated>
-  <id>{{ meta.siteURL }}</id>
+  <title>{{ site.title }}</title>
+  <subtitle>{{ site.subtitle }}</subtitle>
+  <link href="{{ site.feedUrl }}" rel="self"/>
+  <link href="{{ site.url }}"/>
+  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ metadata.url }}</id>
   <author>
-    <name>{{ meta.authorName }}</name>
-    <email>{{ meta.authorEmail }}</email>
+    <name>{{ metadata.author.name }}</name>
   </author>
-  {%- for post in collections.post %}
-    {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(meta.siteURL) }}{% endset %}
-    <entry>
-      <title>{{ post.data.title }}</title>
-      <link href="{{ absolutePostUrl }}"/>
-      <updated>{{ post.date | rssDate }}</updated>
-      <id>{{ absolutePostUrl }}</id>
-      <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
-    </entry>
+  {%- for post in collections.posts %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
   {%- endfor %}
 </feed>

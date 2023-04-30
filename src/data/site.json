@@ -1,0 +1,13 @@
+{
+  "minimal_mistakes_skin": "mint",
+  "locale": "en-US",
+  "title": "Textile Makerspace",
+  "logo_path": "/assets/images/tm_logo.png",
+  "title_separator": "-",
+  "name": "Quinn Dombrowski",
+  "description": "Example description",
+  "maxPostsPerPage": 5,
+  "search": false,
+  "minimal_mistakes_skin": "mint",
+  "search_provider": "lunr"
+}

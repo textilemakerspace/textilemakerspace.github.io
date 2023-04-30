@@ -1,0 +1,24 @@
+{
+   "main": [
+    {
+	   "title": "Hours",
+       "url": "/hours/"
+    },
+    {
+       "title": "Equipment",
+       "url": "/equipment/"
+    },
+    {
+       "title": "DataViz",
+       "url": "/dataviz/"
+    },
+    {
+       "title": "Blog",
+       "url": "/blog/"
+   },
+       {
+       "title": "Contact",
+       "url": "/contact/"
+   }
+   ]
+}
