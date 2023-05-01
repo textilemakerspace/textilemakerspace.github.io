@@ -1,7 +1,8 @@
 ---
 title: PhD Quilt
 date: 2023-04-23
-author: quinnanya
+author: Quinn Dombrowski
+show_date: true
 permalink: /phdquilt/
 header:
   overlay_image: /assets/images/header_phdquilt.jpg

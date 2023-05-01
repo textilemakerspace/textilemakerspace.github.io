@@ -130,7 +130,8 @@ module.exports = function (eleventyConfig) {
 
         return [...tags];
     });
-
+    
+    
     eleventyConfig.addCollection("categories", (collection) => {
         let categories = new Set();
 

@@ -4,10 +4,10 @@
   "permalink": "feed.xml",
   "eleventyExcludeFromCollections": true,
   "metadata": {
-    "title": "Quinn Dombrowski: Blog",
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
-    "url": "http://www.quinndombrowski.com",
-    "feedUrl": "http://www.quinndombrowski.com/feed.xml",
+    "title": "Textile Makerspace Blog",
+    "subtitle": "All things creative-critical making with textiles at Stanford.",
+    "url": "https://textilemakerspace.stanford.edu",
+    "feedUrl": "https://textilemakerspace.stanford.edu/feed.xml",
     "author": {
       "name": "Quinn Dombrowski"
     }
@@ -30,7 +30,7 @@
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <updated>{{ post.data.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>

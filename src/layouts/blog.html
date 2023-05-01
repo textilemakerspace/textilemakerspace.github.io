@@ -2,10 +2,6 @@
 layout: single.html
 ---
 
-{{ content }}
+<p><em>{% if author %}{{author}}, {% endif %}{{ date | toUTCString}}</em></p>
 
-<ul>
-{%- for post in collections.post -%}
-  <li>{{ post.data.title }}</li>
-{%- endfor -%}
-</ul>
+{{ content }}

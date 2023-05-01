@@ -9,9 +9,9 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
 ---
-<div class="archive">
+
 <div class="entries-grid">
-{%- for equipment in collections.equipment -%}
+{%- for equipment in collections.equipment | sort(attribute="equipment.data.title", case_sensitive=true -%}
 
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -24,7 +24,6 @@ header:
   </article>
 </div>
 {% endfor %}
-</div>
 </div>
 
 

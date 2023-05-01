@@ -42,6 +42,12 @@ During 2020, the Textile Makerspace became a virtual hub for library staff parti
 
 ![Collage of masks and the Masquaraders logo](/assets/images/about_masquaraders.jpg)
 
+## Animal Crossing: New Digital Humanities
+
+During the mostly-virtual years of the pandemic, Quinn Dombrowski and Liz Grumbach ran a streaming digital humanities lecture series called *Animal Crossing: New Digital Humanities*, where people would virtually visit Quinn's Animal Crossing island and talk about their digital humanities work. The upstairs of Quinn's house, where various events were held, was a virtual Textile Makerspace.
+
+![Virtual Quinn in the virtual Animal Crossing makerspace](/assets/images/about_acnh.jpg)
+
 ## 2022 Renovation
 
 In fall 2022, the Textile Makerspace was ready to reopen, reinvigorated by a donation from an anonymous alum that supported the purchase of an embroidery machine, button maker, knitting needles and crochet hooks, and other supplies to serve a wider range of interests. The whole space got a furniture makeover with help from staff at the TAPS Costume Shop and Stanford Surplus. 

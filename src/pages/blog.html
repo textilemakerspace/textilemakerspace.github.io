@@ -13,7 +13,7 @@ pagination:
 
 {%- for post in pagination.items -%}
 <h2><a href="{{post.data.permalink}}">{{ post.data.title }}</a></h2>
-<em>{{ post.data.date | toUTCString}}</em>
+<em>{% if post.data.author %}{{post.data.author}}, {% endif %}{{ post.data.date | toUTCString}}</em>
 <p>{{ post.templateContent | description }} <a href="{{post.data.permalink}}"><em>read more</em></a></p>
 {%- endfor -%}
 
