@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Textile Makerspace</title>
-  <subtitle>A makerspace at Stanford for sewing, knitting, crochet, weaving &amp; other creativity with textiles.</subtitle>
-  <link href="http://localhost:8080"/>
-  <link href="http://localhost:8080/feed.xml" rel="self"/>
+  <subtitle></subtitle>
+  <link href="" rel="self"/>
+  <link href=""/>
   <updated>2023-04-23T00:00:00Z</updated>
-  <id>http://localhost:8080</id>
+  <id>https://textilemakerspace.stanford.edu</id>
   <author>
     <name>Quinn Dombrowski</name>
-    <email>qad@stanford.edu</email>
   </author>
-    
-    <entry>
-      <title>PhD Quilt</title>
-      <link href="http://localhost:8080/phdquilt/"/>
-      <updated>2023-04-23T00:00:00Z</updated>
-      <id>http://localhost:8080/phdquilt/</id>
-      <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;Context&lt;/h2&gt;
+  
+  <entry>
+    <title>PhD Quilt</title>
+    <link href="https://textilemakerspace.stanford.edu/phdquilt/"/>
+    <updated>2023-04-23T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/phdquilt/</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-final.jpg&quot; alt=&quot;PhD quilt visualization&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;context&quot; tabindex=&quot;-1&quot;&gt;Context&lt;/h2&gt;
 &lt;p&gt;I made this data visualization PhD quilt in 2013 when my husband, Andy, graduated with a dual PhD in linguistics and Slavic linguistics. I had been sewing for 3 years at that point (only with wovens), and had never done anything quilt-like before.&lt;/p&gt;
-&lt;p&gt;My husband’s dissertation was on phonological contact, particularly between Slavic and non-Slavic languages. At the point when I was making this visualization, he had decided to be done with academia and pursue something in the biomedical field. I wanted this to be a tribute to everything he had done, in the context of what he was planning to do next.&lt;/p&gt;
-&lt;h2&gt;The data&lt;/h2&gt;
+&lt;p&gt;My husband&#39;s dissertation was on phonological contact, particularly between Slavic and non-Slavic languages. At the point when I was making this visualization, he had decided to be done with academia and pursue something in the biomedical field. I wanted this to be a tribute to everything he had done, in the context of what he was planning to do next.&lt;/p&gt;
+&lt;h2 id=&quot;the-data&quot; tabindex=&quot;-1&quot;&gt;The data&lt;/h2&gt;
 &lt;p&gt;On March 15, 2013, I was trying to sort out numbers to quantify his time in the PhD program in various ways.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Big things&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -85,8 +84,8 @@
 &lt;li&gt;7 years&lt;/li&gt;
 &lt;li&gt;3 summer seminars (Albanian, Macedonian, medieval Slavic)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;The design&lt;/h2&gt;
-&lt;p&gt;There was more data than I could reasonably squeeze into a quilt of the size I imagined. So I had to narrow it down to what seemed like the most important things, and then map them to elements of the design. I don’t remember how I/we came up with the design idea, but I have these notes:&lt;/p&gt;
+&lt;h2 id=&quot;the-design&quot; tabindex=&quot;-1&quot;&gt;The design&lt;/h2&gt;
+&lt;p&gt;There was more data than I could reasonably squeeze into a quilt of the size I imagined. So I had to narrow it down to what seemed like the most important things, and then map them to elements of the design. I don&#39;t remember how I/we came up with the design idea, but I have these notes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;6 rays off sun for 6 chapters&lt;/li&gt;
 &lt;li&gt;ball of sun&lt;/li&gt;
@@ -94,8 +93,8 @@
 &lt;li&gt;earth/rocks for courses, languages&lt;/li&gt;
 &lt;li&gt;teaching is sky?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Below that, a break in the notes, and a sketch I think Andy made:&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/phdquilt_design.jpg&quot; alt=&quot;Sketch design for the PhD quilt&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Below that, a break in the notes, and a sketch I think Andy made:
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/phdquilt_design.jpg&quot; alt=&quot;Sketch design for the PhD quilt&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dissertation = sun + 6 chapters&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;11 publications&lt;/li&gt;
@@ -108,7 +107,7 @@
 &lt;li&gt;2 writing internships, 8 total&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Exams (9) = water&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Classes taken (50) = rocks&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Classes taken (50) = rocks&lt;/strong&gt;
 Here the notes look like I was trying to roughly calculate what size the rocks should be&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;10&amp;quot; high (+ extra), 36&amp;quot; wide&lt;/li&gt;
@@ -117,7 +116,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 &lt;li&gt;less than 1 high, more than 3 wide&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Languages learned (13) = grass&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;The colors&lt;/h2&gt;
+&lt;h2 id=&quot;the-colors&quot; tabindex=&quot;-1&quot;&gt;The colors&lt;/h2&gt;
 &lt;p&gt;The numbers of fabric pieces in each zone of the design represented one set of things (as described above), but the colors and actual fabric design for each zone had a different symbolism.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Slavia Orthodoxa (green/grass)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -125,24 +124,24 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Old_Church_Slavonic&quot;&gt;Old Church Slavonic&lt;/a&gt; Bible quote&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Birch_bark_manuscript#Old_Slavonic_script&quot;&gt;Birchbark letters&lt;/a&gt; (note: the birchbark letter I used was &lt;a href=&quot;http://gramoty.ru/birchbark/document/show/novgorod/605/&quot;&gt;#605&lt;/a&gt;, an excerpt from which is on our wedding rings)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-medieval.jpg&quot; alt=&quot;Green Slavic design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-medieval.jpg&quot; alt=&quot;Green Slavic design&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Turkish (blue/water)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ottoman poetry / calligraphy&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-turkish.jpg&quot; alt=&quot;Blue Turkish design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-turkish.jpg&quot; alt=&quot;Blue Turkish design&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albanian (yellow / sun)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mashup of less-well-known alphabets witha good text&lt;/li&gt;
 &lt;li&gt;One text, many alphabets&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-albanian-color.jpg&quot; alt=&quot;Yellow Albanian design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-albanian-color.jpg&quot; alt=&quot;Yellow Albanian design&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;South Slavic (gray / rocks)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Latin / Cyrillic font, trilingual text (BCS, Macedonian, Bulgarian)&lt;/li&gt;
 &lt;li&gt;Multiple texts, single combined alphabet&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-sslavic.jpg&quot; alt=&quot;South Slavic design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-sslavic.jpg&quot; alt=&quot;South Slavic design&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Evolution / language contact / language change (gradient / sky)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mashup&lt;/li&gt;
@@ -150,7 +149,7 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 &lt;li&gt;Evolution, adaptive landscape, bio reference TBD&lt;/li&gt;
 &lt;li&gt;Symbolic of language contact&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This one was the most challenging to render, as you might guess from the vague notes. There were 5 versions of the double helix design, which is what we settled on for the “bio reference TBD”. We ended up using a variety of different scripts for T/C/A/G on the double helix:&lt;/p&gt;
+&lt;p&gt;This one was the most challenging to render, as you might guess from the vague notes. There were 5 versions of the double helix design, which is what we settled on for the &amp;quot;bio reference TBD&amp;quot;. We ended up using a variety of different scripts for T/C/A/G on the double helix:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cyrillic&lt;/li&gt;
 &lt;li&gt;Georgian a, t, ts, g (ejectives)&lt;/li&gt;
@@ -160,24 +159,204 @@ Here the notes look like I was trying to roughly calculate what size the rocks s
 &lt;li&gt;Glagolitic&lt;/li&gt;
 &lt;li&gt;medieval Cyrillic&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix1.jpg&quot; alt=&quot;Double helix design, version 1&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix2.jpg&quot; alt=&quot;Double helix design, version 2&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix3.jpg&quot; alt=&quot;Double helix design, version 3&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix4.jpg&quot; alt=&quot;Double helix design, version 4&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix5.jpg&quot; alt=&quot;Double helix design, version 5&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix1.jpg&quot; alt=&quot;Double helix design, version 1&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix2.jpg&quot; alt=&quot;Double helix design, version 2&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix3.jpg&quot; alt=&quot;Double helix design, version 3&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix4.jpg&quot; alt=&quot;Double helix design, version 4&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix5.jpg&quot; alt=&quot;Double helix design, version 5&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Because the sky was going to be a gradient (to represent the sunset on an academic career, and the sunrise on a biomedical career), I created a final design that would have the double helix in different colors depending on the color of the background:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-dhelix-final.jpg&quot; alt=&quot;Double helix design, final&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;The final fabric&lt;/h2&gt;
-&lt;p&gt;I put together a final design that was 42&amp;quot; wide (the max printing width for woven fabrics on &lt;a href=&quot;https://www.spoonflower.com/&quot;&gt;Spoonflower&lt;/a&gt;) and 108&amp;quot; long (3 yards), with enough of each fabric design for me to cut out the necessary number of pieces. (Want to see the full resolution version in all its detail? &lt;a href=&quot;http://localhost:8080/assets/images/dissertation-final.pdf&quot;&gt;Click here for a PDF&lt;/a&gt;).)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-finalfabric.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;Cutting and sewing&lt;/h2&gt;
-&lt;p&gt;I only have one photo of me working on this project: chopping up the gray rocks fabric.&lt;br /&gt;
-&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-cutting.jpg&quot; alt=&quot;Cutting up fabric for the dissertation quilt&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Looking at the back of the piece, it’s apparent how very “winging it” the whole thing was, cutting and sewing approximations that I hoped would work well enough… and sewing things with more or less seam allowance on the fly when they weren’t working out well.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/assets/images/dissertation-back.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;What happened next&lt;/h2&gt;
-&lt;p&gt;The sides were… not straight. Certainly not straight enough that I could finish them easily, without completely losing some of the fabric pieces that were important for the counts. The sun ball did not lay flat, and was curved and sort of puffy regardless of what I did with it. Also, our first kid was born in November 2013, so soon after this project I became preoccupied with baby stuff. It went into a closet. Then was moved to another closet when we moved to our current house three years later. I forgot about it altogether, honestly.&lt;/p&gt;
-&lt;p&gt;But teaching &lt;em&gt;Data Visualization with Textiles&lt;/em&gt; gave me a chance to revisit it, and you know, I’m now going to figure out a way to hem it, even if I have to pad out the edges a bit. And I’m going to hang it up. It meant a lot to me and my husband that I rediscovered this in the depths of the fabric closet, and now I feel proud of it as the beginning of something I didn’t even recognize as being a thing at the time. There are things in our lives that are these recurring themes, that echo in different ways at different times. For me, I think &lt;em&gt;textiles + data viz&lt;/em&gt; is one of them.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-dhelix-final.jpg&quot; alt=&quot;Double helix design, final&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-final-fabric&quot; tabindex=&quot;-1&quot;&gt;The final fabric&lt;/h2&gt;
+&lt;p&gt;I put together a final design that was 42&amp;quot; wide (the max printing width for woven fabrics on &lt;a href=&quot;https://www.spoonflower.com/&quot;&gt;Spoonflower&lt;/a&gt;) and 108&amp;quot; long (3 yards), with enough of each fabric design for me to cut out the necessary number of pieces. (Want to see the full resolution version in all its detail? &lt;a href=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-final.pdf&quot;&gt;Click here for a PDF&lt;/a&gt;).)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-finalfabric.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;cutting-and-sewing&quot; tabindex=&quot;-1&quot;&gt;Cutting and sewing&lt;/h2&gt;
+&lt;p&gt;I only have one photo of me working on this project: chopping up the gray rocks fabric.
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-cutting.jpg&quot; alt=&quot;Cutting up fabric for the dissertation quilt&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Looking at the back of the piece, it&#39;s apparent how very &amp;quot;winging it&amp;quot; the whole thing was, cutting and sewing approximations that I hoped would work well enough... and sewing things with more or less seam allowance on the fly when they weren&#39;t working out well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/dissertation-back.jpg&quot; alt=&quot;Final dissertation project fabric&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-happened-next&quot; tabindex=&quot;-1&quot;&gt;What happened next&lt;/h2&gt;
+&lt;p&gt;The sides were... not straight. Certainly not straight enough that I could finish them easily, without completely losing some of the fabric pieces that were important for the counts. The sun ball did not lay flat, and was curved and sort of puffy regardless of what I did with it. Also, our first kid was born in November 2013, so soon after this project I became preoccupied with baby stuff. It went into a closet. Then was moved to another closet when we moved to our current house three years later. I forgot about it altogether, honestly.&lt;/p&gt;
+&lt;p&gt;But teaching &lt;em&gt;Data Visualization with Textiles&lt;/em&gt; gave me a chance to revisit it, and you know, I&#39;m now going to figure out a way to hem it, even if I have to pad out the edges a bit. And I&#39;m going to hang it up. It meant a lot to me and my husband that I rediscovered this in the depths of the fabric closet, and now I feel proud of it as the beginning of something I didn&#39;t even recognize as being a thing at the time. There are things in our lives that are these recurring themes, that echo in different ways at different times. For me, I think &lt;em&gt;textiles + data viz&lt;/em&gt; is one of them.&lt;/p&gt;
 </content>
-    </entry>
+  </entry>
+  
+  <entry>
+    <title>Yarn donations from Mary Prada Dombrowski</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/yarn-donations-mary-prada-dombrowski/"/>
+    <updated>2023-04-18T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/yarn-donations-mary-prada-dombrowski/</id>
+    <content type="html">&lt;p&gt;An incredible donation of many boxes of yarn brought together Textile Makerspace staff and visitors for a yarn party. Mary Prada Dombrowski delighted students with a gorgeous and diverse assortment of yarns, which were immediately put to good use through knitting and crochet projects. These special yarns are in their own plastic tubs in the Makerspace, and all are welcome to use them -- just send Quinn a picture of what you make, so our generous donor can enjoy them.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_yarnparty1.jpg&quot; alt=&quot;Students opening boxes of yarn at the Makerspace&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_yarnparty2.jpg&quot; alt=&quot;Students opening boxes of yarn at the Makerspace&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace renovation complete</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/textile-makerspace-renovation-complete/"/>
+    <updated>2023-04-13T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/textile-makerspace-renovation-complete/</id>
+    <content type="html">&lt;p&gt;After 9 months of off-and-on work as time, funding, and energy permitted, the Textile Makerspace renovation is finally complete, with the re-hanging of the whiteboard upon the wall! We&#39;re grateful to the whole TAPS crew who have helped, but most of all Heather Patterson Miller, the architect for this entire vision of transforming the Makerspace.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_kyoheather.jpg&quot; alt=&quot;Kyo and Heather after hanging up the whiteboard&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Needle felting pop-up at library exhibit on food</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/needle-felting-popup-food/"/>
+    <updated>2023-04-11T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/needle-felting-popup-food/</id>
+    <content type="html">&lt;p&gt;This month&#39;s &lt;a href=&quot;https://library.stanford.edu/exhibitions/special-unique-and-rare-food-green-library-hohbach-hall&quot;&gt;Special, Unique, and Rare exhibit&lt;/a&gt; at the Library had the theme of food, so the Textile Makerspace hosted a hands-on activity for needle felting food (or anything else).&lt;/p&gt;
+&lt;p&gt;Staff and grad students alike seemed to find needle felting to be a pleasingly cathartic craft activity!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_stabbysign.jpg&quot; alt=&quot;A sign for the pop-up with an add-on sign reading &amp;quot;Feeling STABBY?&amp;quot;&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_alstabbing.jpg&quot; alt=&quot;Anne Ladyem works on needle felting a sphere&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Kicking off DLCL 203: Data Visualization with Textiles</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/data-visualization-textiles-2023/"/>
+    <updated>2023-04-03T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/data-visualization-textiles-2023/</id>
+    <content type="html">&lt;p&gt;Spring quarter kicks off the first-ever class of DLCL 203: Data Visualization with Textiles. In this independent study, students can come by the Textile Makerspace during any of its open hours to learn from staff (or practice on their own) textile-related tools and methods, with the goal of creating a project that incorporates data in some way.&lt;/p&gt;
+&lt;p&gt;Quinn&#39;s experimental project will be to create a toy data set of transcribed and annotated &lt;em&gt;Calvin and Hobbes&lt;/em&gt; comics, looking at different ways to visualize that data in yarn.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_crochet.jpg&quot; alt=&quot;Quinn practicing crochet&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Visit to the Digital Justice Lab</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/digital-justice-lab-visit/"/>
+    <updated>2023-03-17T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/digital-justice-lab-visit/</id>
+    <content type="html">&lt;p&gt;As part of a retreat for the &lt;a href=&quot;http://datasittersclub.github.io/site&quot;&gt;Data-Sitters Club&lt;/a&gt;, Textile Makerspace director Quinn Dombrowski visited Prof. Jacque Wernimont&#39;s &lt;a href=&quot;https://digitaljusticelab.com/about/&quot;&gt;Digital Justice Lab&lt;/a&gt; at Dartmouth, and was inspired by Molly Morin&#39;s &lt;a href=&quot;https://mollymorin.com/knitlab/&quot;&gt;KnitLab&lt;/a&gt; project there. A KH-940 digital knitting machine may be coming soon to the Textile Makerspace.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_knitlab.jpg&quot; alt=&quot;A digital image being knitted on a hacked KH-940 digital knitting machine&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Makerspace Annex impacted by flood</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/makerspace-annex-flood/"/>
+    <updated>2023-03-08T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/makerspace-annex-flood/</id>
+    <content type="html">&lt;p&gt;A faulty water fountain on the 3rd floor of Pigott Hall led to collapsed ceiling tiles on the 1st floor of the building, including the newly-renamed Textile Makerspace Annex AKA Quinn&#39;s office. The 1960&#39;s LeClerc Mira loom, which had barely been in the room for a week, bore the brunt of the mushy ceiling tiles, but thanks to some quick work and advocacy on the part of DLCL facilities manager John Richardson, we don&#39;t expect it will sustain significant permanent damage.  Many thanks, too, to the making@stanford folks who came over to lend a hand with saving the loom!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_loomdrying.jpg&quot; alt=&quot;Loom underneath collapsed ceiling&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace at Library &#39;Technology&#39; pop-up exhibit</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/textile-makerspace-at-technology-popup/"/>
+    <updated>2023-03-07T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/textile-makerspace-at-technology-popup/</id>
+    <content type="html">&lt;p&gt;The Textile Makerspace brought its loom and knitting machines to Hohbach Hall for the &lt;a href=&quot;https://library.stanford.edu/blogs/stanford-libraries-blog/2023/03/special-unique-and-rare-technology-march-7&quot;&gt;Special, Unique and Rare: Technology&lt;/a&gt; pop-up exhibit, giving visitors a chance to try out this textile technology.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_techpopup.jpg&quot; alt=&quot;Setup for the pop-up event&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>LeClerc Mira counterbalance loom comes to the Textile Makerspace</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/leclerc-mira-loom/"/>
+    <updated>2023-03-01T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/leclerc-mira-loom/</id>
+    <content type="html">&lt;p&gt;Newly arrived at the Textile Makerspace is a 45&amp;quot; ~1960s vintage LeClerc Mira counterbalance loom, which was so wide it had to be partially disassembled to get through the door. The loom is the first piece of equipment to be stationed in the newly-renamed Textile Makerspace Annex, previously known as Quinn&#39;s office, on the first floor of Pigott Hall (260-108).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_miraloom.jpg&quot; alt=&quot;Mira loom&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace celebrates data and textiles at the Love Data Week Fair</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/love-data-week-2023/"/>
+    <updated>2023-02-14T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/love-data-week-2023/</id>
+    <content type="html">&lt;p&gt;The Textile Makerspace participated in the Love Data Week Fair on Valentine&#39;s Day, with a station dedicated to textiles and data. As part of the event, we surveyed library staff, followers on Mastodon and on Twitter, and people who attended the event in-person on their feeling about data. At the end of the event, we knitted everyone&#39;s results from a yarn &amp;quot;data ball&amp;quot; into a &amp;quot;data scarf&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Several of the CIDR staff who helped run the station were wearing matching shirts with Data from &lt;em&gt;Star Trek: The Next Generation&lt;/em&gt;, sewed together at the Textile Makerspace. Stanford Digital Repository staff also handed out Valentines created at the Textile Makerspace using our Cricut Make.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_ldw2023.jpg&quot; alt=&quot;Data and textiles station&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_ldwdataball.jpg&quot; alt=&quot;Knitting the data ball&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace hosts a blanket-making volunteer activity</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/blanket-volunteer-activity/"/>
+    <updated>2023-02-02T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/blanket-volunteer-activity/</id>
+    <content type="html">&lt;p&gt;The Textile Makerspace hosted a Hands-On Bay Area no-sew blanket-making volunteer activity on February 2nd, with optional additional embroidery or appliqué for those inspired to do so. The blankets will be donated to local shelters for our unhoused neighbors.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_blanketmaking.jpg&quot; alt=&quot;Volunteers making blankets&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_llamaapplique.jpg&quot; alt=&quot;Llama appliqué&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace gets a Brother KX-350 knitting machine</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/brother-kx350/"/>
+    <updated>2023-01-11T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/brother-kx350/</id>
+    <content type="html">&lt;p&gt;Thanks to a generous gift from Ryan Lieu from Stanford Libraries&#39; Preservation group, the Textile Makerspace now has a Brother KX-350 knitting machine! Come by to try it out.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_kx350.jpg&quot; alt=&quot;Brother KX-350 knitting machine&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>making@stanford grant for the Textile Makerspace</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/making-stanford-grant/"/>
+    <updated>2022-11-17T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/making-stanford-grant/</id>
+    <content type="html">&lt;p&gt;We are excited to share the news that the Textile Makerspace has received one of the pilot making@stanford grants, as part of a joint proposal with &lt;em&gt;Miller Makers&lt;/em&gt; (at the Hopkins Marine Station) and the &lt;em&gt;Terman MakerBar&lt;/em&gt; (in the engineering library)! We intend to use most of the funds to hire student staff to help keep the Makerspace open more hours, and more student-friendly hours.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace at the Library&#39;s Textiles Pop-Up</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/textiles-popup/"/>
+    <updated>2022-11-08T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/textiles-popup/</id>
+    <content type="html">&lt;p&gt;On November 8th, the Textile Makerspace held a hands-on pop-up event as part of Stanford Libraries &lt;a href=&quot;https://library.stanford.edu/blogs/stanford-libraries-blog/2022/10/special-unique-and-rare-textiles-and-fashion-nov-8&quot;&gt;Special, Unique and Rare: Textiles and Fashion&lt;/a&gt; event in Hohbach Hall.&lt;/p&gt;
+&lt;p&gt;We brought perler beads and had patterns from vintage weaving manuals on hand, giving participants a chance to recreate the weaving patterns (or anything else they&#39;d like) through the medium of perler beads.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_perlerbeads.jpg&quot; alt=&quot;Perler beads and weaving patterns&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace welcomes David Wrisley</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/david-wrisley-visit/"/>
+    <updated>2022-10-21T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/david-wrisley-visit/</id>
+    <content type="html">&lt;p&gt;On October 21st, digital humanities scholar and multilingual DH activist David Wrisley visited the Textile Makerspace from NYU Abu Dhabi, reuniting with Dr. Cheese Bones, the Textile Makerspace skeleton who won the award for most innovative poster at the DH 2019 conference.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_wrisley.jpg&quot; alt=&quot;David Wrisley, Cheese Bones, and Quinn Dombrowski&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace at the JEDI fair</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/textile-makerspace-jedi-fair-2022/"/>
+    <updated>2022-10-11T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/textile-makerspace-jedi-fair-2022/</id>
+    <content type="html">&lt;p&gt;On October 11th, the Textile Makerspace had a station at the Stanford Libraries &lt;a href=&quot;https://events.stanford.edu/event/justice_equity_diversity_and_inclusion_jedi_fair_8413&quot;&gt;Justice, Equity, Diversity, and Inclusion (JEDI) Fair&lt;/a&gt;, with the guestbook loom giving visitors a place to express how they were feeling.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_jedifair2022.jpg&quot; alt=&quot;Textile Makerspace guestbook loom at the JEDI fair&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Friendship bracelet workshop</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/friendship-bracelet-workshop/"/>
+    <updated>2022-09-28T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/friendship-bracelet-workshop/</id>
+    <content type="html">&lt;p&gt;On September 28th, Alix Keener led a workshop on creating friendship bracelets. The &lt;a href=&quot;https://thecraftingchicks.com/jellyfish-friendship-bracelets/&quot;&gt;jellyfish friendship bracelet&lt;/a&gt; was especially popular, using a cardboard wheel cut out by our Cricut Make.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_alixfriendshipbracelet.jpg&quot; alt=&quot;Alix shows off a friendship bracelet&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_friendshipbraceletstudents.jpg&quot; alt=&quot;Students working on friendship bracelets&quot; /&gt;
+&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_friendshipbracelet.jpg&quot; alt=&quot;Friendship bracelets on cardboard wheels&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Textile Makerspace reopens</title>
+    <link href="https://textilemakerspace.stanford.edu/blog/textile-makerspace-reopens/"/>
+    <updated>2022-09-23T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/blog/textile-makerspace-reopens/</id>
+    <content type="html">&lt;p&gt;After being closed since March 2020, the Textile Makerspace is officially reopening for fall quarter! Come by our space in Pigott Hall (260-238), where we&#39;ve got plenty of new things to explore, including an embroidery machine! Don&#39;t forget to sign in with our new guestbook loom!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/blog_reopening.jpg&quot; alt=&quot;A skeleton holding the guestbook loom underneath a Textile Makerspace sign&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
 </feed>
+
