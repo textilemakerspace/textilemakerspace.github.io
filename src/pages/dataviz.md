@@ -16,7 +16,8 @@ Here's some examples of textile data visualization:
 * Jordan Cunliffe's [Texture & other work on Instagram](https://www.instagram.com/artisan_embroidery/?hl=en) (h/t Akasha Hayden)
 * Nathalie Miebach's [Stay Healthy and Strong](https://www.nathaliemiebach.com/work/stay-healthy-and-strong) (h/t Akasha Hayden)
 * Gareth Holt's [Picturing social order](https://flowingdata.com/2010/12/09/picturing-social-order/) (h/t Akasha Hayden)
-* Raw Color’s [Temperature Blanket](https://temperaturetextiles.nl/temperature/)
+* Raw Color’s [Temperature Blanket](https://temperaturetextiles.nl/temperature/) (h/t Akasha Hayden)
+
 
 ## Other thought-provoking data visualizations
 
