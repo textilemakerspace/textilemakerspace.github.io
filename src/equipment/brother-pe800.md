@@ -18,7 +18,7 @@ I use a **lot** of thread in specific colors. Now, if you don't care about the c
 The Textile Makerspace has a full range of basic colors of embroidery thread. There's a number on the top of each spool that corresponds to the number that I'll give you for the color(s) I want you to thread me with. If you can't find an exact match, you can look for something close.
 
 ## Tricks and tips
-Fun fact: the bobbin thread color actually doesn't matter, because there's just so many stitches with an embroidery that you can't see it (unlike with a regular sewing machine). What *does* matter is that it needs to be polyester thread (any color embroidery thread will do), or I'm probably going to jam. 
+Fun fact: the bobbin thread color actually doesn't matter (unless you're using the built-in fonts), because there's just so many stitches with an embroidery that you can't see it (unlike with a regular sewing machine). What *does* matter is that it needs to be polyester thread (any color embroidery thread will do), or I'm probably going to jam. 
 
 If I run low on bobbin thread in the middle of an embroidery, don't panic: you can replace the bobbin and I'll pick up where I left off (or you can choose to go back a few stitches).
 
@@ -30,3 +30,8 @@ I was the big-ticket purchase on the first funding the Textile Makerspace ever r
 * [Manuals, built-in design guides, etc.](https://support.brother.com/g/b/manualtop.aspx?c=us&lang=en&prod=hf_pe800eus)
 * [Quickstart guide](https://www.youtube.com/watch?v=qTO6N7IGx1A&ab_channel=TalentTheMuse) (video)
 * [Hooping mistakes/tips](https://www.youtube.com/watch?v=UUAFKQY651c&ab_channel=SewingReport) (video)
+
+## Embroidery pattern resources
+
+* [TurtleStitch](https://www.turtlestitch.org/): a drag-and-drop coding environment for creating algorithmic patterns; it won't output .pes files like we need, but you can convert the file format using [embroidermodder](https://github.com/Embroidermodder/Embroidermodder).
+* [TurtleThread](https://github.com/TurtleThread/TurtleThread): a Python library for creating algorithmic patterns; can save as .pes.
