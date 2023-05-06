@@ -1,5 +1,6 @@
 ---
 title: Brother KH-940 knitting machine
+id: brotherkh940
 image: '/assets/images/equipment_kh940.jpg'
 permalink: '/equipment/brother-kh940-knitting-machine/'
 header:
@@ -24,3 +25,4 @@ I'm the Japanese model, so we used the label maker to put subtitles on me for al
 ## Instructions
 
 * [Manual](https://mkmanuals.com/brother-kh930-and-kh940-user-guide.html)
+* [Step-by-step instructions w/ photos for casting on, basic knitting, and pattern knitting](/tutorials/basic-brother-kh940/)

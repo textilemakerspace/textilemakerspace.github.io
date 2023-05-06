@@ -1,5 +1,6 @@
 ---
 title: Bernina 2500dcet serger/coverstitch
+id: bernina2500dcet
 image: '/assets/images/equipment_oldserger.jpg'
 permalink: '/equipment/bernina-2500dcet-serger-coverstitch/'
 header:

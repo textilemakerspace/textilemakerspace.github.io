@@ -1,5 +1,6 @@
 ---
 title: Personal looms
+id: personallooms
 image: '/assets/images/equipment_personallooms.jpg'
 permalink: '/equipment/personal-looms/'
 header:

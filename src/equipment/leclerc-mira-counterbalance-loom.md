@@ -1,5 +1,6 @@
 ---
 title: LeClerc Mira Counterbalance Loom
+id: miraloom
 image: '/assets/images/equipment_leclercmira.jpg'
 permalink: '/equipment/leclerc-mira-counterbalance-loom/'
 header:

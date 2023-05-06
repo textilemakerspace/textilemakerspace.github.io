@@ -1,5 +1,6 @@
 ---
 title: Crochet hooks
+id: crochethooks
 image: '/assets/images/equipment_crochet.jpg'
 permalink: '/equipment/crochet-hooks/'
 header:

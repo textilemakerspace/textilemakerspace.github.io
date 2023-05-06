@@ -1,5 +1,6 @@
 ---
 title: "Babylock Jubilant sewing machine"
+id: babylockjubilant
 permalink: '/equipment/babylock-jubilant-sewing-machine'
 image: '/assets/images/equipment_jubilant.jpg'
 header:

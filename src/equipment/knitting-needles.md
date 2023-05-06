@@ -1,5 +1,6 @@
 ---
 title: Knitting needles
+id: knittingneedles
 image: '/assets/images/equipment_knitting.jpg'
 permalink: '/equipment/knitting-needles/'
 header:

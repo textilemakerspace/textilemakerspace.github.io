@@ -1,5 +1,6 @@
 ---
 title: 'Brother PE800 embroidery machine'
+id: brotherpe800
 image: '/assets/images/equipment_embroiderymachine.jpg'
 permalink: '/equipment/brother-pe800-embroidery-machine/'
 header:

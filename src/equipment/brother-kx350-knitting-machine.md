@@ -1,5 +1,6 @@
 ---
 title: Brother KX-350 knitting machine
+id: brotherkx350
 image: '/assets/images/equipment_kx350.jpg'
 permalink: '/equipment/brother-kx350-knitting-machine/'
 header:

@@ -1,5 +1,6 @@
 ---
 title: Snap handpress
+id: snaphandpress
 image: '/assets/images/equipment_snaphandpress.jpg'
 permalink: '/equipment/snap-handpress/'
 header:

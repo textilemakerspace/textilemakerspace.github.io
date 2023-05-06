@@ -1,5 +1,6 @@
 ---
 title: "Janome 900cpx coverstitch"
+id: janome900cpx
 image: '/assets/images/equipment_janome900.jpg'
 permalink: '/equipment/janome-900cpx-coverstitch/'
 header:

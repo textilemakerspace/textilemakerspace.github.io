@@ -1,5 +1,6 @@
 ---
 title: Brother 1034d serger
+id: brother1034d
 image: '/assets/images/equipment_serger.jpg'
 permalink: '/equipment/brother-1034d-serger/'
 header:

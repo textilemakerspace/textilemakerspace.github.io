@@ -1,5 +1,6 @@
 ---
 title: Cricut Maker
+id: cricutmaker
 image: '/assets/images/equipment_cricutmaker.jpg'
 permalink: '/equipment/cricut-maker/'
 header:

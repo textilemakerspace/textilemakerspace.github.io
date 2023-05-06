@@ -1,5 +1,6 @@
 ---
 title: Electric Eel Wheel 6 e-spinner
+id: eew6
 image: '/assets/images/equipment_eew6.jpg'
 permalink: '/equipment/eew6-espinner/'
 header:

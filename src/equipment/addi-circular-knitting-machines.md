@@ -1,5 +1,6 @@
 ---
 title: Addi circular knitting machines
+id: addicircular
 image: '/assets/images/equipment_addi.jpg'
 permalink: '/equipment/addi-circular-knitting-machines/'
 header:

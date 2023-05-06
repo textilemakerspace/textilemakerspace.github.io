@@ -1,5 +1,6 @@
 ---
 title: 'Janome Threadbanger sewing machine'
+id: janomethreadbanger
 image: '/assets/images/equipment_threadbanger.jpg'
 permalink: '/equipment/janome-threadbanger-sewing-machine/'
 header:

@@ -1,5 +1,6 @@
 ---
 title: Needle felting
+id: needlefelting
 permalink: '/equipment/needle-felting/'
 image: '/assets/images/equipment_felting.jpg'
 header:
