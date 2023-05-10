@@ -17,9 +17,9 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 * Monday, 5/8: 1-2 (Natalie), 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
 * Tuesday, 5/9: 12-3 (Akasha), 4-9 (Shaina)
 * Tuesday, 5/9 2-4 PM, pop-up in Green Library - Hohbach Hall: Ukrainian embroidery
-* Wednesday, 5/10: 12-3 (Akasha), 4:30-9 (Kavya + Shaina)
-* Thursday, 5/11: 5-9 (Cristyn + Akasha)
-* Friday, 5/12: 2:30-5 (Kavya)
+* Wednesday, 5/10: 4:30-9 (Kavya + Shaina)
+* Thursday, 5/11: 5-9 (Cristyn + Shaina)
+* Friday, 5/12: 2-4:30 (Kavya)
 
 
 ## Upcoming events & workshops
