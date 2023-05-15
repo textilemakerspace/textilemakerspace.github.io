@@ -14,12 +14,11 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Spring hours
 
-* Monday, 5/8: 1-2 (Natalie), 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
-* Tuesday, 5/9: 12-3 (Akasha), 4-9 (Shaina)
-* Tuesday, 5/9 2-4 PM, pop-up in Green Library - Hohbach Hall: Ukrainian embroidery
-* Wednesday, 5/10: 3:15-9 (Kavya + Shaina)
-* Thursday, 5/11: 5-9 (Cristyn + Shaina)
-* Friday, 5/12: 12:30-2:30 (Kavya) 
+* Monday, 5/15: 1-2 (Natalie), 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
+* Tuesday, 5/16: 12-3 (Akasha), 4-9 (Shaina)
+* Wednesday, 5/17: 12-3 (Akasha), 5-9 (Kavya + Shaina)
+* Thursday, 5/18: 12-4 (Quinn), 5-9 (Cristyn + Shaina)
+* Friday, 5/19: 3-5 (Kavya) 
 
 
 ## Upcoming events & workshops
