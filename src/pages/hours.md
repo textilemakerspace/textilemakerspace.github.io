@@ -15,8 +15,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 ## Spring hours
 
 * Monday, 5/29: CLOSED (building closed for Memorial Day)
-* Tuesday, 5/30: 12-3 (Akasha), 4-9 (Shaina)
-* Wednesday, 5/31: 12-3 (Akasha), 5-9 (Kavya + Shaina)
+* Tuesday, 5/30: 12-3 (Shaina), 4-9 (Shaina)
+* Wednesday, 5/31: 12-3 (Shaina), 5-9 (Kavya + Shaina)
 * Thursday, 6/1: 5-9 (Cristyn + Akasha)
 * Friday, 6/2: 3-5 (Kavya) 
 
