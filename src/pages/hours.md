@@ -18,7 +18,7 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 * Tuesday, 5/30: 12-3 (Shaina), 4-9 (Shaina)
 * Wednesday, 5/31: 12-3 (Shaina), 5-9 (Kavya + Shaina)
 * Thursday, 6/1: 5-9 (Cristyn + Akasha)
-* Friday, 6/2: 10-12 (Kavya) 
+* Friday, 6/2: 2-4 (Kavya) 
 
 
 ## Upcoming events & workshops
