@@ -14,13 +14,13 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Spring hours
 
-* Monday, 5/29: CLOSED (building closed for Memorial Day)
-* Tuesday, 5/30: 12-3 (Shaina), 4-9 (Shaina)
-* Wednesday, 5/31: 12-3 (Shaina), 5-9 (Kavya + Shaina)
-* Thursday, 6/1: 5-9 (Cristyn + Akasha)
-* Friday, 6/2: 2-4 (Kavya) 
+* Monday, 6/5: 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
+* Tuesday, 6/6: 12-3 (Akasha), 4-9 (Shaina)
+* Wednesday, 6/7: 12-9 (Kavya + Akasha + Shaina)
+* **Wednesday, 6/7: Makerspace end-of-year party*** 3-6
+* Thursday, 6/8: 5-9 (Cristyn + Akasha)
+* Friday, 6/9: 11-4 (Quinn)
 
 
 ## Upcoming events & workshops
 * Wednesday 6/7 3-6 PM: Textile Makerspace end-of-year party! Come make things, but also there'll be snacks
-* Every Tuesday at 12 through the end of May, intro to crochet with Mary-Ellen Petrich
