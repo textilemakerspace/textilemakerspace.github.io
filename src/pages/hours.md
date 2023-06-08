@@ -14,6 +14,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 ## Spring hours
 
+**More hours coming next week! We're open through 6/23!**
+
 * Monday, 6/5: 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
 * Tuesday, 6/6: 12-3 (Akasha), 4-6 (Kavya), 6:30-9 (Akasha)
 * Wednesday, 6/7: 12-9 (Kavya + Akasha + Shaina)
