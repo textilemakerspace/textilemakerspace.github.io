@@ -16,13 +16,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 **More hours coming next week! We're open through 6/23!**
 
-* Monday, 6/5: 2:30-4 (Kavya), 5-9 (Cristyn + Akasha)
-* Tuesday, 6/6: 12-3 (Akasha), 4-6 (Kavya), 6:30-9 (Akasha)
-* Wednesday, 6/7: 12-9 (Kavya + Akasha + Shaina)
-* **Wednesday, 6/7: Makerspace end-of-year party*** 3-6
-* Thursday, 6/8: 5-9 (Cristyn + Akasha)
-* Friday, 6/9: 11-4 (Quinn)
-
-
-## Upcoming events & workshops
-* Wednesday 6/7 3-6 PM: Textile Makerspace end-of-year party! Come make things, but also there'll be snacks
+* Monday, 6/12: 9-11 (Quinn), 3:30-9 (Quinn + Cristyn + Akasha)
+* Tuesday, 6/13: 9-12 (Quinn), 12-6:30 (Akasha + Quinn), 6:30-9 (Akasha)
+* Wednesday, 6/14: 12-9 (Kavya + Akasha + Shaina)
+* Thursday, 6/15: 10:30-5 (Quinn + Kavya), 5-9 (Cristyn + Akasha)
+* Friday, 6/16: 9-11:30 (Kavya), 11:30-6 (Quinn)
