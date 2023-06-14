@@ -18,6 +18,6 @@ The Textile Makerspace is run by a mix of volunteers and student staff. The sche
 
 * Monday, 6/12: 9-11 (Quinn), 3:30-9 (Quinn + Cristyn + Akasha)
 * Tuesday, 6/13: 9-12 (Quinn), 12-6:30 (Akasha + Quinn), 6:30-9 (Akasha)
-* Wednesday, 6/14: 12-9 (Kavya + Akasha + Shaina)
+* Wednesday, 6/14: 6-9 (Akasha + Shaina)
 * Thursday, 6/15: 10:30-5 (Quinn + Kavya), 5-7 (Cristyn)
 * Friday, 6/16: 9-11:30 (Kavya), 11:30-6 (Quinn)
