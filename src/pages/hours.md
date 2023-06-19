@@ -12,12 +12,14 @@ header:
 The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page and update it frequently.
 
 
-## Spring hours
+## Hours
 
-**More hours coming next week! We're open through 6/23!**
+**Last week before we're on hiatus through mid-August!**
 
-* Monday, 6/12: 9-11 (Quinn), 3:30-9 (Quinn + Cristyn + Akasha)
-* Tuesday, 6/13: 9-12 (Quinn), 12-6:30 (Akasha + Quinn), 6:30-9 (Akasha)
-* Wednesday, 6/14: 6-9 (Akasha + Shaina)
-* Thursday, 6/15: 10:30-5 (Quinn + Kavya), 5-7 (Cristyn)
-* Friday, 6/16: 9 AM - 6 PM (Kavya + Quinn)
+The building will be locked; check our Instagram story (@textilemakerspace) or email Quinn (qad@stanford.edu) for how to get in.
+
+* Monday, 6/19: 9-7
+* Tuesday, 6/20: 9-7
+* Wednesday **closed** (no power in the building)
+* Thursday 6/22: 9-5
+* Friday 6/23: 9-2
