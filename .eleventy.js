@@ -33,6 +33,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
     eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
 
+
+
     eleventyConfig.addPlugin(pluginRss);
     //Blog excerpts
     eleventyConfig.addPlugin(description);
@@ -189,6 +191,9 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addFilter("number_of_words", numberOfWords);
+
+
+
 
     // eleventyConfig.addShortcode("where_exp", function (item, exp) {
     //     console.log(exp);
