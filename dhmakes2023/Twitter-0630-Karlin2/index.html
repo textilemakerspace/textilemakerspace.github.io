@@ -12,7 +12,7 @@
 
 <!-- begin _includes/seo.html -->
 <title>Textile Makerspace</title>
-<meta name="description" content="...">
+<meta name="description" content="| image | source |text |link |date | ||---|---|---|---| | Fz4n74eXwAYZYoh.jpeg | By Jojo Karlin on Twitter | Roundtable on Scholarly Communications for Digital Humanities Librarianship with @johnruss28 @ClaudiaEBerger @VisualizingPam Linsey Ford @rachellstarry @NickoalEichmann @DHandLib talking care &amp; “infrastructure is people” #jojodoodles #dhmakes | https://twitter.com/jojokarlin/status/1674820027365617665?s=20 | 2023-06-30 |  ...">
 
 
 
@@ -20,10 +20,10 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Textile Makerspace">
 <meta property="og:title" content="Textile Makerspace">
-<meta property="og:url" content="https://www.quinndombrowski.com/components/search/algolia-search-scripts/">
+<meta property="og:url" content="https://www.quinndombrowski.com/dhmakes2023/Twitter-0630-Karlin2/">
 
 
-  <meta property="og:description" content="...">
+  <meta property="og:description" content="| image | source |text |link |date | ||---|---|---|---| | Fz4n74eXwAYZYoh.jpeg | By Jojo Karlin on Twitter | Roundtable on Scholarly Communications for Digital Humanities Librarianship with @johnruss28 @ClaudiaEBerger @VisualizingPam Linsey Ford @rachellstarry @NickoalEichmann @DHandLib talking care &amp; “infrastructure is people” #jojodoodles #dhmakes | https://twitter.com/jojokarlin/status/1674820027365617665?s=20 | 2023-06-30 |  ...">
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-<link rel="canonical" href="https://www.quinndombrowski.com/components/search/algolia-search-scripts/">
+<link rel="canonical" href="https://www.quinndombrowski.com/dhmakes2023/Twitter-0630-Karlin2/">
 
 
 
@@ -152,7 +152,7 @@
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     
-    
+    <meta itemprop="description" content="| image  | source  |text   |link   |date   ||">
     <meta itemprop="datePublished" content="2023-06-30T16:49:40+00:00">
     
 
@@ -168,67 +168,9 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <!-- Including InstantSearch.js library and styling -->
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
-
-<script>
-// Instanciating InstantSearch.js with Algolia credentials
-const search = instantsearch({
-  appId: '',
-  apiKey: '',
-  indexName: '',
-  searchParameters: {
-    restrictSearchableAttributes: [
-      'title',
-      'content'
-    ]
-  }
-});
-
-const hitTemplate = function(hit) {
-  const url = hit.url;
-  const title = hit._highlightResult.title.value;
-  const content = hit._highlightResult.html.value;
-
-  return `
-    <div class="list__item">
-      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
-        <div class="archive__item-excerpt" itemprop="description">${content}</div>
-      </article>
-    </div>
-  `;
-}
-
-// Adding searchbar and results widgets
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '.search-searchbar',
-    poweredBy: true,
-    placeholder: 'Enter your search term...'
-  })
-);
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '.search-hits',
-    templates: {
-      item: hitTemplate,
-      empty: 'No results',
-    }
-  })
-);
-
-// Starting the search only when toggle is clicked
-$(document).ready(function () {
-  $(".search__toggle").on("click", function() {
-    if(!search.started) {
-      search.start();
-    }
-  });
-});
-</script>
+        <p>| image  | source  |text   |link   |date   |
+||---|---|---|---|
+| Fz4n74eXwAYZYoh.jpeg  | By Jojo Karlin on Twitter  | Roundtable on Scholarly Communications for Digital Humanities Librarianship with @johnruss28 @ClaudiaEBerger @VisualizingPam Linsey Ford @rachellstarry @NickoalEichmann @DHandLib talking care &amp; “infrastructure is people” #jojodoodles #dhmakes  | https://twitter.com/jojokarlin/status/1674820027365617665?s=20  |  2023-06-30 |</p>
 
         
       </section>
