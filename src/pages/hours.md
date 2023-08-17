@@ -5,15 +5,16 @@ layout: single.html
 permalink: '/hours/'
 header:
   overlay_image: /assets/images/header_hours.jpg
-  overlay_color: "#5e616c"
+  overlay_color: '#5e616c'
   overlay_filter: 0.5
 ---
 
-The Textile Makerspace is run by a mix of volunteers and student staff. The schedule can vary, but we try to keep the latest info about our open hours on this page and update it frequently.
-
+The Textile Makerspace is run by a mix of volunteers and student staff. We'll be back to having regularly-scheduled weekday afternoon/evening hours at the start of the school year!
 
 ## Hours
 
-**We're on hiatus until mid August!**
+_Hours subject to Quinn not being summoned for jury duty_
 
-Looking forward to seeing you again then! We've now got funding for student staff all next academic year.
+- Monday, August 21 - 12-3:30
+- Wednesday, August 23 - 1-3:30
+- Friday, August 25 - 12-3:30
