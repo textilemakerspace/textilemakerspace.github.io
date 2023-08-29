@@ -17,5 +17,5 @@ _Hours subject to Quinn not being summoned for jury duty_
 
 To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call 650-736-3626, which will ring at the Makerspace.
 
-- Tuesday 8/29 12-3:30
 - Wednesday 8/30 1-3:30
+- Friday 9/1 1-3:30
