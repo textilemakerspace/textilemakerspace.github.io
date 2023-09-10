@@ -15,4 +15,6 @@ The Textile Makerspace is run by a mix of volunteers and student staff. We'll be
 
 To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call 650-736-3626, which will ring at the Makerspace.
 
-- Thursday, Sep 7, 2-3:30 PM
+- Monday, September 11, 3:30-6 PM
+- Tuesday, September 12, 11 AM-1 PM
+- Wednesday, September 13, 12-3:30 PM
