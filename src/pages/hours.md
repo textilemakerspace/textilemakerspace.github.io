@@ -19,4 +19,4 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 - Tuesday 9/26, 1:30-3:30 PM, 5-9 PM
 - Wednesday 9/27, 3-5 PM
 - Thursday 9/28, 5-7 PM
-- Friday 9/29, 10:30 AM - 12, 3-8 PM
+- Friday 9/29, 3-8 PM
