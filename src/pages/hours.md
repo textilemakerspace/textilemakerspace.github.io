@@ -19,6 +19,6 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 - Tuesday 9/26, 1:30-3:30 PM, 5-9 PM
 - Wednesday 9/27, 3-5 PM
 - Thursday 9/28, 5-7 PM
-- Friday 9/29, 3-8 PM
+- Friday 9/29, 3-6 PM
 
 **Please claim your stuff** if you've been storing it in a box at the Makerspace! We've got a new sign-up form to help us keep better track of things. Drop by the Makerspace to let us know what you want to keep, and fill out the form. We'll be consolidating unclaimed materials on **October 6th**.
