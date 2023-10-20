@@ -19,4 +19,4 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 - Tuesday 10/17, 5-9 PM
 - Wednesday 10/18, 3-5:30 PM
 - Thursday 10/19, canceled today, apologies!
-- Friday 10/20, 3-6 PM
+- Friday 10/20, canceled today, apologies -- be back next week!
