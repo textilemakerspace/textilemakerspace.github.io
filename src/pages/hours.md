@@ -15,9 +15,9 @@ The Textile Makerspace is run by a mix of volunteers and student staff. We'll be
 
 To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call 650-736-3626, which will ring at the Makerspace.
 
-- Monday 11/13, 12:30-6:30 PM
-- Tuesday 11/14, 3:45-6:45 PM
-- Wednesday 11/15, 3-5:30 PM
-- Thursday 11/16, 3:45-6:45 PM
-- Friday 11/17, 3-5 PM
-- Monday 11/20, 10:30-12, 1-3:50 (call 650-736-3626 to get into the building)
+- Monday 11/20, 10:30-4 (lunch break maybe 12-1), **call 650-736-3626 to be let in**
+
+Special Thanksgiving Week crochet pop-up hours at **Studio 6, 47 Olmsted Rd**:
+
+- Wednesday, 11-5; **learn to crochet** workshop 2-4
+- Friday 11-5
