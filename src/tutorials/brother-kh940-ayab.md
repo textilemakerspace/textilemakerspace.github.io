@@ -1,22 +1,42 @@
 ---
-title: Basic instructions for the Brother KH-940 knitting machine
+title: Using the Brother KH-940 knitting machine with AYAB
 id: brotherkh940
-permalink: '/tutorials/basic-brother-kh940/'
+permalink: '/tutorials/brother-kh940-ayab/'
 header:
   overlay_image: /assets/images/header_kh940bunny.jpg
   overlay_color: '#5e616c'
   overlay_filter: 0.5
-updated: 2023-05-04
+updated: 2023-11-29
 toc: true
 ---
 
-**NOTE:** This tutorial is out of date for the Textile Makerspace, because we've replaced the machine's built-in program with an Arduino that connects to [All Yarns are Beautiful](https://ayab-knitting.com/). We're keeping this version up for others to use with an un-hacked machine.
-
 ## Overview
 
-The Brother KH-940 digital knitting machine can be used like a regular knitting machine to create a fabric of stockinette stitch if you don't turn it on. Once you turn it on, you'll have to interact with the machine's program interface to specify what pattern to knit.
+The Brother KH-940 digital knitting machine can be used like a regular knitting machine to create a fabric of stockinette stitch if you don't turn it on. Once you turn it on, you'll have to use the Windows laptop next to it to send it a pattern using the [All Yarns Are Beautiful](https://ayab-knitting.com/) software.
 
-There are multiple different knitting types for this machine (fair isle / multi-colored patterns being only one of them), as well as many ways you can manipulate the built-in patterns. This tutorial will cover basic setup for casting on, stockinette stitch, and fair isle knitting with a built-in pattern.
+There are multiple different knitting types for this machine (fair isle / multi-colored patterns being only one of them). This tutorial will cover basic setup for casting on, stockinette stitch, and fair isle knitting using a pattern from the computer.
+
+## Computer setup
+
+Log into the laptop using your SUNet ID. If you run into the Bitlocker message before you log in, the password is `Stanford1234`. The AYAB software is available through the Windows Start menu (its icon is black with a yarn logo).
+
+### Your pattern
+
+You can email yourself a pattern, or transfer it using a USB drive. The pattern specifications are as follows:
+
+- ONLY black pixels and white pixels (no grayscale, it will knit garbage if there's gray pixels)
+- No more than 180 pixels wide at the absolute most (160 is better)
+- Wide images should be turned sideways; you can knit infinite rows, but you can't go more than 180 (ideally 160) pixels per row.
+
+### Working with AYAB
+
+After you've launched the AYAB software, click the "Load Image File" button in the upper right. Locate your image, or you can use one of the built-in ones. (The folder it defaults to has a subfolder, _kh910_, that has a lot of built-in patterns, including designs that repeat.)
+
+![AYAB interface](/assets/images/ayab_0.80.png)
+
+Once you've selected an image, check the "Start Needle" and "Stop Needle" information in the middle of the right column. If you look down at the needle bed, you'll see the left needles are labeled with orange numbers, and the right needles are labeled with green. You'll usually want to set up the knitting so that there's 5-10 more needles than what's listed -- so, if you see the start needle is 20 Orange (as in this screenshot), when you cast on, you'll want to pull down the needles between 30 green and 30 orange.
+
+Now, we'll turn to the knitting machine setup itself, before returning to the laptop and AYAB.
 
 ## Yarn setup
 
@@ -46,7 +66,7 @@ The change nob (dial on the upper right of the carriage) should be set to NL
 
 ## Casting on
 
-Using the numbered guide at the front of the machine, pull 60 needles (30 on each side of the center 0) to position B. Look on either side of the needle bed to see the guide that shows where position B is. If you want to knit a wider piece, you can pull down more needles, but usually you should try to make it even on both sides of the center 0.
+Using the numbered guide at the front of the machine, pull the correct number of needles to position B. (The correct number of needles is 5-10 more than what AYAB shows as the start and stop needles.) Look on either side of the needle bed to see the guide that shows where position B is. If you want to knit a wider piece, you can pull down more needles, but usually you should try to make it even on both sides of the center 0.
 
 ![Pulling down 60 needles for setting up KH-940](/assets/images/tutorial_kh94060needles.jpg)
 
@@ -91,6 +111,8 @@ Follow the setup steps above before getting started. Be sure you've cast on and 
 
 ## Carriage setup
 
+Make sure the carriage is moved all the way over to the left, onto the rail and off the machine itself.
+
 Change the change nob dial on the upper right of the carriage from N-L (which we used for stockinette) to KC.
 
 ![Changing the dial to KC](/assets/images/tutorial-kh940fi.jpg)
@@ -99,32 +121,14 @@ Push in only the top center button on the carriage.
 
 ![Pushing in the top center button](/assets/images/tutorial-kh940button.jpg)
 
-## Pattern setup
+## Computer setup
 
-Turn on the machine. By default it will retain the information from the last time someone was knitting a pattern, so the green ready light will be on, you'll see some number (corresponding to the number of rows the last person knit), and a display with a second number (representing the contrast yarn color from the last pattern used).
+Going back to the computer, make sure the blue USB cord from the Arduino is plugged into the computer, and the knitting machine itself is turned on. The Arduino board should be glowing red, and you should see a small red line on the power switch for the machine, as in this image:
 
-Hit the step button (the long blue one) so that the red light is on "pattern number".
+![AYAB hardware is set up](/assets/images/ayab-hardware-setup.jpg)
 
-![Pattern number light lit up](/assets/images/tutorial-kh940patternnumber.jpg)
+In the AYAB software, click the _2. Configure_ button, then the _3. Knit_ button. Move the carriage to the right, past the turn knob and you'll hear the machine beep once, then twice. Move the carriage all the way to the right, past the needles that you've pulled down, and the machine should beep again.
 
-Hit the CE button to clear it, and use the keypad to type in the number for the pattern you want to use. (Check the colorful book of patterns for all the pattern options.)
-
-Hit the step button again to set the position of the repeats (if you have the "selector" set to 1, which lets you skip the number of repeats because it'll just repeat across the whole width of your knitting). You can hit the yellow (left side) and green (right side) buttons to change the offset, or just leave it with the defaults. In the image below, the position is offset on the yellow (left) side (because the yellow light is lit up) by 13 spaces.
-
-![Pattern number light lit up](/assets/images/tutorial-kh940offset.jpg)
-
-Hit the step button to take you back to having a green light at "ready", then hit the "start" button. You should see it set to row 1 in the first display, and some other number in the second display, corresponding to which color contrast yarn you should be using. Many of these patterns use multiple colors of contrast yarn; if you want to knit it all in just one contrast color, you can ignore it.
-
-![Ready light on](/assets/images/tutorial-kh940ready.jpg)
-
-Move the carriage slowly all the way to the left past the arrow mark, but don't let it fall off the needle bed altogether! Then, move the carriage to the right past the needles, and back again. After each pass, there should be a blinking number on the display that increases to show the number of rows you've knit.
-
-![Carriage all the way to the left](/assets/images/tutorial-kh940carriageleft.jpg)
-
-Keep moving the carriage back and forth slowly across the needles, and if everything is working, different needles will pop out each time for that row.
-
-![Different needles popping out as you knit](/assets/images/tutorial-kh940needlesout.jpg)
-
-When the pattern is complete, the machine will beep. At that point, you can redo the pattern setup to get it to knit more patterns, or you can remove the second yarn from the carriage, change the carriage settings back to stockinette, then knit several more rows.
+Make sure your second color is correctly threaded through the machine before you move the carriage to the left; the machine knits the main color on the rightward passes, and the second color on the leftward passes. The machine will beep every time you've completed the pattern for that row, but you may need to go a little bit further to clear the additional buffer stitches you've set up on either side before you switch directions.
 
 ![Final stockinette rows](/assets/images/tutorial-kh940finalstockinette.jpg)
