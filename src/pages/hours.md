@@ -17,6 +17,6 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 
 - Monday 11/27, 11 AM - 1 PM
 - Tuesday 11/28, 3:45-6:45 PM
-- Wednesday 11/29, 3-5:30 PM
+- Wednesday 11/29, 10:30-1, 3-5:30 PM
 - Thursday 11/30, 3:45-6:45 PM
 - Friday 12/1, 3-9 PM
