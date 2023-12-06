@@ -12,9 +12,9 @@ subtype: 'knitting machine'
 updated: 2023-04-26
 ---
 
-Hello, I'm the most affordable way to keep your family in the height of fashion... as of the 80's or 90's, at least. I'm a low-drama, fairly straightforward knitting machine, the least cantankerous of all the flat knitting machines at the Makerspace.
-
 **I've moved south! I now live at [Miller Makers](https://millermakers.stanford.edu/). Come visit me in Monterey!**
+
+Hello, I'm the most affordable way to keep your family in the height of fashion... as of the 80's or 90's, at least. I'm a low-drama, fairly straightforward knitting machine, the least cantankerous of all the flat knitting machines at the Makerspace.
 
 ## Supplies
 
