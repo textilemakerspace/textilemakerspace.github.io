@@ -17,6 +17,8 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 
 **NOTE: The embroidery machine is currently broken. We will post an update when it is fixed.**
 
+The building is locked this week but call 650-736-3626 or if there's no answer, text Quinn at 773-369-7688 to be let in. 
+
 - Tuesday 12/19, 11 AM - 7 PM
 - Wednesday 12/20, 11 AM - 5 PM
 
