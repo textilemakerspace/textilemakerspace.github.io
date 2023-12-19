@@ -17,5 +17,7 @@ To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call
 
 **NOTE: The embroidery machine is currently broken. We will post an update when it is fixed.**
 
-- Thursday 12/14, 8 AM - 4 PM (no staffing 12-1:30)
-- Friday 12/15, 10 Am - 5 PM
+- Tuesday 12/19, 11 AM - 7 PM
+- Wednesday 12/20, 11 AM - 5 PM
+
+Then closed for the holidays 
