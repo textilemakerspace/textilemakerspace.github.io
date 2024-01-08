@@ -13,13 +13,8 @@ The Textile Makerspace is run by a mix of volunteers and student staff, and some
 
 ## Hours
 
-To confirm the Makerspace is open, or if the door to Pigott Hall is locked, call 650-736-3626, which will ring at the Makerspace.
+Our embroidery machine is currently broken, but we should have a replacement sometime this week. _More hours for this week and the rest of the quarter coming soon!_
 
-**NOTE: The embroidery machine is currently broken. We will post an update when it is fixed.**
-
-The building is locked this week but call 650-736-3626 or if there's no answer, text Quinn at 773-369-7688 to be let in. 
-
-- Tuesday 12/19, 11 AM - 7 PM
-- Wednesday 12/20, 11 AM - 5 PM
-
-Then closed for the holidays 
+- Monday 1/8, 5-7:30 PM
+- Wednesday 1/10, 5-7:30 PM
+- Friday 1/12, 5-7:30 PM
