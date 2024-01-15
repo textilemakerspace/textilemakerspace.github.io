@@ -19,5 +19,3 @@ Our embroidery machine is currently broken, but we should have a replacement som
 - Tuesday 1/9, 5-7:30 PM
 - Friday 1/12, 5-7:30 PM
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&showTabs=1&showCalendars=0&mode=WEEK&src=c3RhbmZvcmR0ZXh0aWxlbWFrZXJzcGFjZUBnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
