@@ -14,10 +14,10 @@
 
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li><a href="https://mailman.stanford.edu/mailman/listinfo/textilemakerspace"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> mailing list</a></li>
+      <li><a href="https://instagram.com/textilemakerspace"><i class="fas fa-brands fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+    <li><a href="https://making.stanford.edu/">Making@Stanford</a></li>
     {% endunless %}
   </ul>
 </div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: 'Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://www.11ty.dev/" rel="nofollow">Eleventy</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> (adapted as <a href="https://github.com/quinnanya/eleven-mistakes">Eleven Mistakes</a>).
-<p>Also on <a rel="me" href="https://mstdn.social/@quinnanya">Mastodon</a></p>
 </div>
