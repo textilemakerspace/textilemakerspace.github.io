@@ -1,0 +1,47 @@
+---
+title: People
+layout: archive.html
+permalink: /people/
+collection: people
+classes: wide
+header:
+  overlay_image: /assets/images/header_equipment.jpg
+  overlay_color: '#5e616c'
+  overlay_filter: 0.5
+---
+
+<div>
+	<div class="entries-grid">
+		{%- for people in collections.people | sort(attribute="people.data.title",
+		case_sensitive=false) -%}
+
+		<div class="grid__item">
+			<article
+				class="archive__item"
+				itemscope
+				itemtype="https://schema.org/CreativeWork"
+			>
+				<img src="{{people.data.image}}" / >
+				<h3 class="archive__item-title no_toc" itemprop="headline">
+					{{ people.data.title }}
+				</h3>
+				<p class="archive__item-excerpt" itemprop="description">
+					{{ people.content }}
+				</p>
+			</article>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+</div>
+</div>
+<div>
+	<h2>Alumni</h2>
+
+	<ul>
+		<li>Cristyn Filla (2023)</li>
+		<li>Margarita Nafpaktitis (2019-2020)</li>
+		<li>Kathleen Smith (2019-2020)</li>
+		<li>Kavya Srikanth (2023)</li>
+	</ul>
+</div>

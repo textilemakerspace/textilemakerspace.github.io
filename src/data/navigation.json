@@ -1,32 +1,32 @@
 {
-   "main": [
-       {
-   	   "title": "Home",
-          "url": "/"
-       },
-       {
-   	   "title": "About",
-          "url": "/about/"
-       },
-    {
-	   "title": "Hours",
-       "url": "/hours/"
-    },
-    {
-       "title": "Equipment",
-       "url": "/equipment/"
-    },
-    {
-       "title": "DataViz",
-       "url": "/dataviz/"
-    },
-    {
-       "title": "Blog",
-       "url": "/blog/"
-   },
-       {
-       "title": "Contact",
-       "url": "/contact/"
-   }
-   ]
+	"main": [
+		{
+			"title": "Home",
+			"url": "/"
+		},
+		{
+			"title": "Equipment",
+			"url": "/equipment/"
+		},
+		{
+			"title": "Hours",
+			"url": "/hours/"
+		},
+		{
+			"title": "People",
+			"url": "/people/"
+		},
+		{
+			"title": "Blog",
+			"url": "/blog/"
+		},
+		{
+			"title": "About",
+			"url": "/about/"
+		},
+		{
+			"title": "Contact",
+			"url": "/contact/"
+		}
+	]
 }
