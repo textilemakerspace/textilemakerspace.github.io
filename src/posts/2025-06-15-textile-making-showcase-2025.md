@@ -1,5 +1,5 @@
 ---
-permalink: /2025showcase
+permalink: /2025showcase/
 title: "2025 Textile Dataviz Showcase"
 date: 2025-05-15
 author: Quinn Dombrowski
