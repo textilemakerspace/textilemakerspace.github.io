@@ -4,11 +4,29 @@
   <subtitle></subtitle>
   <link href="" rel="self"/>
   <link href=""/>
-  <updated>2024-09-25T00:00:00Z</updated>
+  <updated>2025-05-15T00:00:00Z</updated>
   <id>https://textilemakerspace.stanford.edu</id>
   <author>
     <name>Quinn Dombrowski</name>
   </author>
+  
+  <entry>
+    <title>2025 Textile Dataviz Showcase</title>
+    <link href="https://textilemakerspace.stanford.edu/2025showcase"/>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://textilemakerspace.stanford.edu/2025showcase</id>
+    <content type="html">&lt;p&gt;On June 3 from 1-4 PM, we will be holding the second annual Textile Dataviz Showcase, with contributions from students in &lt;em&gt;DLCL 203: Data Visualization with Textiles&lt;/em&gt;, as well as other Stanford makers, alongside materials from Stanford Libraries Special Collections.&lt;/p&gt;
+&lt;p&gt;If you&#39;d like to share some of your work in the exhibit, please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSf0c97fjVlmudNKCgw1NhibUfLKixMmiVmSJ0dgef54-etB8Q/viewform?usp=dialog&quot;&gt;fill out this form&lt;/a&gt; by Wednesday, May 28th and we&#39;ll follow up with details. Please contact Quinn Dombrowski (qad@stanford.edu) with any questions.&lt;/p&gt;
+&lt;h2 id=&quot;photos-from-last-year&#39;s-showcase&quot; tabindex=&quot;-1&quot;&gt;Photos from last year&#39;s showcase&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_amylo.jpg&quot; alt=&quot;Amy Lo&#39;s &#39;Stanford Degree, stitched&#39;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_tanvideshpande.jpg&quot; alt=&quot;Tanvi Deshpane&#39;s flower visualization of departments from her time at Stanford&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_labday.jpg&quot; alt=&quot;Lab Day embroidery and metadata&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_aldis.jpg&quot; alt=&quot;Aldis Elfarsdottir&#39;s data visualization dress&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_framedinbelarus.jpg&quot; alt=&quot;Margarita Nafpaktitis&#39;s &amp;quot;Framed in Belarus&amp;quot; embroidery&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_silk.jpg&quot; alt=&quot;Henry Lowood and silk thread samples in the special collections room&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://textilemakerspace.stanford.edu/assets/images/2024_silkthread.jpg&quot; alt=&quot;Silk thread samples&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>What is #DHMakes?</title>
