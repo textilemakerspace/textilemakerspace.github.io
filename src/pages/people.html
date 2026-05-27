@@ -21,7 +21,7 @@ header:
 				itemscope
 				itemtype="https://schema.org/CreativeWork"
 			>
-				<img src="{{people.data.image}}" / >
+				<img src="{{ people.data.image }}" alt="{{ people.data.image_alt | default: people.data.title | default: '' }}" />
 				<h3 class="archive__item-title no_toc" itemprop="headline">
 					{{ people.data.title }}
 				</h3>

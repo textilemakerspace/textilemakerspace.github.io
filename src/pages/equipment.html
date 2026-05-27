@@ -15,7 +15,7 @@ header:
 
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <img src="{{equipment.data.image}}" / >
+    <img src="{{ equipment.data.image }}" alt="{{ equipment.data.image_alt | default: equipment.data.title | default: '' }}" />
 	<h3 class="archive__item-title no_toc" itemprop="headline">
       {% if equipment.data.permalink %}
         <a href="{{ equipment.data.permalink }}">{{ equipment.data.title }}</a> 

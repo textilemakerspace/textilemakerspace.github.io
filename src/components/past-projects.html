@@ -10,7 +10,7 @@ pagination:
 
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <img src="{{past-project.data.header.overlay_image}}" / >
+    <img src="{{ past-project.data.header.overlay_image }}" alt="{{ past-project.data.header.overlay_image_alt | default: past-project.data.title | default: '' }}" />
 	<h3 class="archive__item-title no_toc" itemprop="headline">
       {% if past-project.data.permalink %}
         <a href="{{ past-project.data.permalink }}">{{ past-project.data.title }}</a> 

@@ -17,7 +17,7 @@ header:
 
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <img src="/assets/dhmakes2023/{{make.data.image}}" / >
+    <img src="/assets/dhmakes2023/{{ make.data.image }}" alt="{{ make.data.image_alt | default: make.data.source | default: '' }}" />
 	<h3 class="archive__item-title no_toc" itemprop="headline">
         <a href="{{ make.data.link }}">{{ make.data.source }}</a> 
     {% if make.data.text %}<p class="archive__item-excerpt" itemprop="description">{{ make.data.text | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
